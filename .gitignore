@@ -1,0 +1,10 @@
+data/less_than_7/
+data/images/
+image_scraper/.git/
+trained_models/
+__pycache__/
+classifier/wandb/
+
+
+
+
