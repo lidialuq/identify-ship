@@ -1,7 +1,7 @@
 import os
 import json
 import torch
-from inferernce import ModelInference
+from inference import ModelInference
 import sys
 sys.path.append('../')
 from settings import PROJECT_ROOT
