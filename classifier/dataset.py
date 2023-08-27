@@ -71,4 +71,11 @@ class ShipDataset(Dataset):
 
         if self.transform:
             image = self.transform(image)
-        return image, class_index
+
+        dic = {
+            'image': image,
+            'class_index': class_index,
+            'class_name': self.classes[class_index],
+            'image_path': img_path
+        }
+        return dic

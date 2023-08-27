@@ -8,13 +8,14 @@ from settings import PROJECT_ROOT
 
 class Trainer:
     def __init__(self, model, train_loader, val_loader, criterion_train, 
-                criterion_val, optimizer, device="cuda"):
+                criterion_val, optimizer, scheduler, device="cuda"):
         self.model = model.to(device)
         self.train_loader = train_loader
         self.val_loader = val_loader
         self.criterion_train = criterion_train
         self.criterion_val = criterion_val
         self.optimizer = optimizer
+        self.scheduler = scheduler
         self.device = device
         if wandb.run.name: # If wnadb online
             self.save_model_folder = os.path.join(PROJECT_ROOT, 'trained_models', 
@@ -25,27 +26,13 @@ class Trainer:
 
         wandb.watch(self.model)
 
-    # def calculate_accuracy(self, outputs, targets, topk=(1,)):
-    #     """Computes the accuracy over the k top predictions for the specified values of k"""
-    #     with torch.no_grad():
-    #         maxk = max(topk)
-    #         batch_size = targets.size(0)
-
-    #         _, pred = outputs.topk(maxk, 1, True, True)
-    #         pred = pred.t() # transpose
-    #         correct = pred.eq(targets.view(1, -1).expand_as(pred))
-    #         res = []
-    #         for k in topk:
-    #             correct_k = correct[:k].view(-1).float().sum(0, keepdim=True)
-    #             res.append(correct_k.mul_(100.0 / batch_size))  
-    #     return res
 
     def train_one_epoch(self):
         self.model.train()
         total_loss = 0
         correct_predictions = 0
-        for inputs, targets in self.train_loader:
-            inputs, targets = inputs.to(self.device), targets.to(self.device)
+        for dic in self.train_loader: 
+            inputs, targets = dic['image'].to(self.device), dic['class_index'].to(self.device)
 
             self.optimizer.zero_grad()
 
@@ -57,7 +44,8 @@ class Trainer:
             total_loss += loss.item()
             _, predicted = outputs.max(1)
             correct_predictions += predicted.eq(targets).sum().item()
-
+            
+        self.scheduler.step()
         avg_loss = total_loss / len(self.train_loader)
         accuracy = 100 * correct_predictions / len(self.train_loader.dataset)
         return avg_loss, accuracy
@@ -67,8 +55,8 @@ class Trainer:
         total_loss = 0
         correct_predictions = 0
         with torch.no_grad():
-            for inputs, targets in self.val_loader:
-                inputs, targets = inputs.to(self.device), targets.to(self.device)
+            for dic in self.val_loader:
+                inputs, targets = dic['image'].to(self.device), dic['class_index'].to(self.device)
 
                 outputs = self.model(inputs)
                 loss = self.criterion_val(outputs, targets)
