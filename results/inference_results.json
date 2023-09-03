@@ -1,0 +1,5249 @@
+[
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_7332787/19.1784094.jpg",
+        "true": {
+            "class_nr": 0,
+            "class_name": "IMO_7332787"
+        },
+        "predicted": {
+            "class_nr": 3,
+            "class_name": "IMO_6820919"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 3,
+                "class_name": "IMO_6820919"
+            },
+            {
+                "class_nr": 50,
+                "class_name": "IMO_9144081"
+            },
+            {
+                "class_nr": 0,
+                "class_name": "IMO_7332787"
+            },
+            {
+                "class_nr": 13,
+                "class_name": "IMO_6708147"
+            },
+            {
+                "class_nr": 15,
+                "class_name": "IMO_9144093"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_7332787/13.310829.jpg",
+        "true": {
+            "class_nr": 0,
+            "class_name": "IMO_7332787"
+        },
+        "predicted": {
+            "class_nr": 28,
+            "class_name": "IMO_6519522"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 28,
+                "class_name": "IMO_6519522"
+            },
+            {
+                "class_nr": 26,
+                "class_name": "IMO_5157626"
+            },
+            {
+                "class_nr": 48,
+                "class_name": "IMO_9361354"
+            },
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            },
+            {
+                "class_nr": 23,
+                "class_name": "IMO_8027767"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_7332787/1.310827.jpg",
+        "true": {
+            "class_nr": 0,
+            "class_name": "IMO_7332787"
+        },
+        "predicted": {
+            "class_nr": 0,
+            "class_name": "IMO_7332787"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 0,
+                "class_name": "IMO_7332787"
+            },
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            },
+            {
+                "class_nr": 48,
+                "class_name": "IMO_9361354"
+            },
+            {
+                "class_nr": 35,
+                "class_name": "IMO_7325681"
+            },
+            {
+                "class_nr": 18,
+                "class_name": "IMO_9247106"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_7814333/29.2809722.jpg",
+        "true": {
+            "class_nr": 1,
+            "class_name": "IMO_7814333"
+        },
+        "predicted": {
+            "class_nr": 29,
+            "class_name": "IMO_9473482"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 29,
+                "class_name": "IMO_9473482"
+            },
+            {
+                "class_nr": 26,
+                "class_name": "IMO_5157626"
+            },
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            },
+            {
+                "class_nr": 50,
+                "class_name": "IMO_9144081"
+            },
+            {
+                "class_nr": 32,
+                "class_name": "IMO_9075369"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_7814333/19.2615311.jpg",
+        "true": {
+            "class_nr": 1,
+            "class_name": "IMO_7814333"
+        },
+        "predicted": {
+            "class_nr": 1,
+            "class_name": "IMO_7814333"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            },
+            {
+                "class_nr": 50,
+                "class_name": "IMO_9144081"
+            },
+            {
+                "class_nr": 23,
+                "class_name": "IMO_8027767"
+            },
+            {
+                "class_nr": 48,
+                "class_name": "IMO_9361354"
+            },
+            {
+                "class_nr": 3,
+                "class_name": "IMO_6820919"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_7814333/8.3477112.jpg",
+        "true": {
+            "class_nr": 1,
+            "class_name": "IMO_7814333"
+        },
+        "predicted": {
+            "class_nr": 1,
+            "class_name": "IMO_7814333"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            },
+            {
+                "class_nr": 36,
+                "class_name": "IMO_8876481"
+            },
+            {
+                "class_nr": 23,
+                "class_name": "IMO_8027767"
+            },
+            {
+                "class_nr": 46,
+                "class_name": "IMO_9142631"
+            },
+            {
+                "class_nr": 3,
+                "class_name": "IMO_6820919"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9921788/5.3467300.jpg",
+        "true": {
+            "class_nr": 2,
+            "class_name": "IMO_9921788"
+        },
+        "predicted": {
+            "class_nr": 2,
+            "class_name": "IMO_9921788"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 2,
+                "class_name": "IMO_9921788"
+            },
+            {
+                "class_nr": 35,
+                "class_name": "IMO_7325681"
+            },
+            {
+                "class_nr": 38,
+                "class_name": "IMO_9706011"
+            },
+            {
+                "class_nr": 19,
+                "class_name": "IMO_9677399"
+            },
+            {
+                "class_nr": 30,
+                "class_name": "IMO_9861263"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9921788/6.3498372.jpg",
+        "true": {
+            "class_nr": 2,
+            "class_name": "IMO_9921788"
+        },
+        "predicted": {
+            "class_nr": 15,
+            "class_name": "IMO_9144093"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 15,
+                "class_name": "IMO_9144093"
+            },
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            },
+            {
+                "class_nr": 27,
+                "class_name": "IMO_7728479"
+            },
+            {
+                "class_nr": 50,
+                "class_name": "IMO_9144081"
+            },
+            {
+                "class_nr": 16,
+                "class_name": "IMO_8897930"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9921788/4.3498371.jpg",
+        "true": {
+            "class_nr": 2,
+            "class_name": "IMO_9921788"
+        },
+        "predicted": {
+            "class_nr": 1,
+            "class_name": "IMO_7814333"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            },
+            {
+                "class_nr": 50,
+                "class_name": "IMO_9144081"
+            },
+            {
+                "class_nr": 48,
+                "class_name": "IMO_9361354"
+            },
+            {
+                "class_nr": 46,
+                "class_name": "IMO_9142631"
+            },
+            {
+                "class_nr": 39,
+                "class_name": "IMO_9481207"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_6820919/3.2822464.jpg",
+        "true": {
+            "class_nr": 3,
+            "class_name": "IMO_6820919"
+        },
+        "predicted": {
+            "class_nr": 24,
+            "class_name": "IMO_9383376"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 24,
+                "class_name": "IMO_9383376"
+            },
+            {
+                "class_nr": 23,
+                "class_name": "IMO_8027767"
+            },
+            {
+                "class_nr": 40,
+                "class_name": "IMO_7004586"
+            },
+            {
+                "class_nr": 19,
+                "class_name": "IMO_9677399"
+            },
+            {
+                "class_nr": 38,
+                "class_name": "IMO_9706011"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_6820919/4.2822467.jpg",
+        "true": {
+            "class_nr": 3,
+            "class_name": "IMO_6820919"
+        },
+        "predicted": {
+            "class_nr": 3,
+            "class_name": "IMO_6820919"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 3,
+                "class_name": "IMO_6820919"
+            },
+            {
+                "class_nr": 48,
+                "class_name": "IMO_9361354"
+            },
+            {
+                "class_nr": 18,
+                "class_name": "IMO_9247106"
+            },
+            {
+                "class_nr": 41,
+                "class_name": "IMO_9353321"
+            },
+            {
+                "class_nr": 15,
+                "class_name": "IMO_9144093"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_6820919/19.Polar-Lady_facebook.jpg",
+        "true": {
+            "class_nr": 3,
+            "class_name": "IMO_6820919"
+        },
+        "predicted": {
+            "class_nr": 3,
+            "class_name": "IMO_6820919"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 3,
+                "class_name": "IMO_6820919"
+            },
+            {
+                "class_nr": 33,
+                "class_name": "IMO_9907990"
+            },
+            {
+                "class_nr": 50,
+                "class_name": "IMO_9144081"
+            },
+            {
+                "class_nr": 32,
+                "class_name": "IMO_9075369"
+            },
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_8611958/1.2432519.jpg",
+        "true": {
+            "class_nr": 4,
+            "class_name": "IMO_8611958"
+        },
+        "predicted": {
+            "class_nr": 32,
+            "class_name": "IMO_9075369"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 32,
+                "class_name": "IMO_9075369"
+            },
+            {
+                "class_nr": 4,
+                "class_name": "IMO_8611958"
+            },
+            {
+                "class_nr": 12,
+                "class_name": "IMO_8912493"
+            },
+            {
+                "class_nr": 42,
+                "class_name": "IMO_6903486"
+            },
+            {
+                "class_nr": 52,
+                "class_name": "IMO_9771432"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_8611958/3.3317315.jpg",
+        "true": {
+            "class_nr": 4,
+            "class_name": "IMO_8611958"
+        },
+        "predicted": {
+            "class_nr": 34,
+            "class_name": "IMO_9109043"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 34,
+                "class_name": "IMO_9109043"
+            },
+            {
+                "class_nr": 12,
+                "class_name": "IMO_8912493"
+            },
+            {
+                "class_nr": 37,
+                "class_name": "IMO_9008641"
+            },
+            {
+                "class_nr": 10,
+                "class_name": "IMO_9819052"
+            },
+            {
+                "class_nr": 52,
+                "class_name": "IMO_9771432"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_8611958/23.7557990484_b1bb30ec79_b.jpg",
+        "true": {
+            "class_nr": 4,
+            "class_name": "IMO_8611958"
+        },
+        "predicted": {
+            "class_nr": 1,
+            "class_name": "IMO_7814333"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            },
+            {
+                "class_nr": 12,
+                "class_name": "IMO_8912493"
+            },
+            {
+                "class_nr": 15,
+                "class_name": "IMO_9144093"
+            },
+            {
+                "class_nr": 50,
+                "class_name": "IMO_9144081"
+            },
+            {
+                "class_nr": 42,
+                "class_name": "IMO_6903486"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_8638449/4.2485472.jpg",
+        "true": {
+            "class_nr": 5,
+            "class_name": "IMO_8638449"
+        },
+        "predicted": {
+            "class_nr": 5,
+            "class_name": "IMO_8638449"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 5,
+                "class_name": "IMO_8638449"
+            },
+            {
+                "class_nr": 40,
+                "class_name": "IMO_7004586"
+            },
+            {
+                "class_nr": 38,
+                "class_name": "IMO_9706011"
+            },
+            {
+                "class_nr": 9,
+                "class_name": "IMO_4544119"
+            },
+            {
+                "class_nr": 47,
+                "class_name": "IMO_4544092"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_8638449/21.1318032.jpg",
+        "true": {
+            "class_nr": 5,
+            "class_name": "IMO_8638449"
+        },
+        "predicted": {
+            "class_nr": 5,
+            "class_name": "IMO_8638449"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 5,
+                "class_name": "IMO_8638449"
+            },
+            {
+                "class_nr": 38,
+                "class_name": "IMO_9706011"
+            },
+            {
+                "class_nr": 41,
+                "class_name": "IMO_9353321"
+            },
+            {
+                "class_nr": 40,
+                "class_name": "IMO_7004586"
+            },
+            {
+                "class_nr": 31,
+                "class_name": "IMO_5359652"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_8638449/17.2692356.jpg",
+        "true": {
+            "class_nr": 5,
+            "class_name": "IMO_8638449"
+        },
+        "predicted": {
+            "class_nr": 5,
+            "class_name": "IMO_8638449"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 5,
+                "class_name": "IMO_8638449"
+            },
+            {
+                "class_nr": 11,
+                "class_name": "IMO_8406157"
+            },
+            {
+                "class_nr": 0,
+                "class_name": "IMO_7332787"
+            },
+            {
+                "class_nr": 10,
+                "class_name": "IMO_9819052"
+            },
+            {
+                "class_nr": 12,
+                "class_name": "IMO_8912493"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9481166/27.kongen_9481166_688616_Small.jpg",
+        "true": {
+            "class_nr": 6,
+            "class_name": "IMO_9481166"
+        },
+        "predicted": {
+            "class_nr": 6,
+            "class_name": "IMO_9481166"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 6,
+                "class_name": "IMO_9481166"
+            },
+            {
+                "class_nr": 39,
+                "class_name": "IMO_9481207"
+            },
+            {
+                "class_nr": 27,
+                "class_name": "IMO_7728479"
+            },
+            {
+                "class_nr": 22,
+                "class_name": "IMO_9481192"
+            },
+            {
+                "class_nr": 14,
+                "class_name": "IMO_9473494"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9481166/14.kongen_9481166_3797561_Large.jpg",
+        "true": {
+            "class_nr": 6,
+            "class_name": "IMO_9481166"
+        },
+        "predicted": {
+            "class_nr": 6,
+            "class_name": "IMO_9481166"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 6,
+                "class_name": "IMO_9481166"
+            },
+            {
+                "class_nr": 42,
+                "class_name": "IMO_6903486"
+            },
+            {
+                "class_nr": 39,
+                "class_name": "IMO_9481207"
+            },
+            {
+                "class_nr": 22,
+                "class_name": "IMO_9481192"
+            },
+            {
+                "class_nr": 28,
+                "class_name": "IMO_6519522"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9481166/9.kongen_9481166_2124865_Medium.jpg",
+        "true": {
+            "class_nr": 6,
+            "class_name": "IMO_9481166"
+        },
+        "predicted": {
+            "class_nr": 6,
+            "class_name": "IMO_9481166"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 6,
+                "class_name": "IMO_9481166"
+            },
+            {
+                "class_nr": 22,
+                "class_name": "IMO_9481192"
+            },
+            {
+                "class_nr": 39,
+                "class_name": "IMO_9481207"
+            },
+            {
+                "class_nr": 17,
+                "class_name": "IMO_9771420"
+            },
+            {
+                "class_nr": 14,
+                "class_name": "IMO_9473494"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9870422/1.3182518.jpg",
+        "true": {
+            "class_nr": 7,
+            "class_name": "IMO_9870422"
+        },
+        "predicted": {
+            "class_nr": 7,
+            "class_name": "IMO_9870422"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 7,
+                "class_name": "IMO_9870422"
+            },
+            {
+                "class_nr": 29,
+                "class_name": "IMO_9473482"
+            },
+            {
+                "class_nr": 14,
+                "class_name": "IMO_9473494"
+            },
+            {
+                "class_nr": 24,
+                "class_name": "IMO_9383376"
+            },
+            {
+                "class_nr": 43,
+                "class_name": "IMO_9863209"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9870422/4.3568731.jpg",
+        "true": {
+            "class_nr": 7,
+            "class_name": "IMO_9870422"
+        },
+        "predicted": {
+            "class_nr": 35,
+            "class_name": "IMO_7325681"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 35,
+                "class_name": "IMO_7325681"
+            },
+            {
+                "class_nr": 3,
+                "class_name": "IMO_6820919"
+            },
+            {
+                "class_nr": 12,
+                "class_name": "IMO_8912493"
+            },
+            {
+                "class_nr": 2,
+                "class_name": "IMO_9921788"
+            },
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9870422/5.3182519.jpg",
+        "true": {
+            "class_nr": 7,
+            "class_name": "IMO_9870422"
+        },
+        "predicted": {
+            "class_nr": 29,
+            "class_name": "IMO_9473482"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 29,
+                "class_name": "IMO_9473482"
+            },
+            {
+                "class_nr": 2,
+                "class_name": "IMO_9921788"
+            },
+            {
+                "class_nr": 12,
+                "class_name": "IMO_8912493"
+            },
+            {
+                "class_nr": 33,
+                "class_name": "IMO_9907990"
+            },
+            {
+                "class_nr": 7,
+                "class_name": "IMO_9870422"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9878993/27.dsc_6740_20160820_071515-2_2-scaled.jpg",
+        "true": {
+            "class_nr": 8,
+            "class_name": "IMO_9878993"
+        },
+        "predicted": {
+            "class_nr": 50,
+            "class_name": "IMO_9144081"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 50,
+                "class_name": "IMO_9144081"
+            },
+            {
+                "class_nr": 52,
+                "class_name": "IMO_9771432"
+            },
+            {
+                "class_nr": 15,
+                "class_name": "IMO_9144093"
+            },
+            {
+                "class_nr": 48,
+                "class_name": "IMO_9361354"
+            },
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9878993/1.3319603.jpg",
+        "true": {
+            "class_nr": 8,
+            "class_name": "IMO_9878993"
+        },
+        "predicted": {
+            "class_nr": 44,
+            "class_name": "IMO_9769219"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 44,
+                "class_name": "IMO_9769219"
+            },
+            {
+                "class_nr": 52,
+                "class_name": "IMO_9771432"
+            },
+            {
+                "class_nr": 8,
+                "class_name": "IMO_9878993"
+            },
+            {
+                "class_nr": 15,
+                "class_name": "IMO_9144093"
+            },
+            {
+                "class_nr": 17,
+                "class_name": "IMO_9771420"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9878993/4.3304582.jpg",
+        "true": {
+            "class_nr": 8,
+            "class_name": "IMO_9878993"
+        },
+        "predicted": {
+            "class_nr": 52,
+            "class_name": "IMO_9771432"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 52,
+                "class_name": "IMO_9771432"
+            },
+            {
+                "class_nr": 17,
+                "class_name": "IMO_9771420"
+            },
+            {
+                "class_nr": 8,
+                "class_name": "IMO_9878993"
+            },
+            {
+                "class_nr": 44,
+                "class_name": "IMO_9769219"
+            },
+            {
+                "class_nr": 28,
+                "class_name": "IMO_6519522"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_4544119/16.hugin-705x504.jpg",
+        "true": {
+            "class_nr": 9,
+            "class_name": "IMO_4544119"
+        },
+        "predicted": {
+            "class_nr": 22,
+            "class_name": "IMO_9481192"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 22,
+                "class_name": "IMO_9481192"
+            },
+            {
+                "class_nr": 42,
+                "class_name": "IMO_6903486"
+            },
+            {
+                "class_nr": 32,
+                "class_name": "IMO_9075369"
+            },
+            {
+                "class_nr": 41,
+                "class_name": "IMO_9353321"
+            },
+            {
+                "class_nr": 23,
+                "class_name": "IMO_8027767"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_4544119/1.1617885.jpg",
+        "true": {
+            "class_nr": 9,
+            "class_name": "IMO_4544119"
+        },
+        "predicted": {
+            "class_nr": 19,
+            "class_name": "IMO_9677399"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 19,
+                "class_name": "IMO_9677399"
+            },
+            {
+                "class_nr": 47,
+                "class_name": "IMO_4544092"
+            },
+            {
+                "class_nr": 46,
+                "class_name": "IMO_9142631"
+            },
+            {
+                "class_nr": 5,
+                "class_name": "IMO_8638449"
+            },
+            {
+                "class_nr": 9,
+                "class_name": "IMO_4544119"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_4544119/3.719743.jpg",
+        "true": {
+            "class_nr": 9,
+            "class_name": "IMO_4544119"
+        },
+        "predicted": {
+            "class_nr": 47,
+            "class_name": "IMO_4544092"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 47,
+                "class_name": "IMO_4544092"
+            },
+            {
+                "class_nr": 9,
+                "class_name": "IMO_4544119"
+            },
+            {
+                "class_nr": 38,
+                "class_name": "IMO_9706011"
+            },
+            {
+                "class_nr": 0,
+                "class_name": "IMO_7332787"
+            },
+            {
+                "class_nr": 39,
+                "class_name": "IMO_9481207"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9819052/18.gioconda_9819052_3991685_XLarge.jpg",
+        "true": {
+            "class_nr": 10,
+            "class_name": "IMO_9819052"
+        },
+        "predicted": {
+            "class_nr": 10,
+            "class_name": "IMO_9819052"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 10,
+                "class_name": "IMO_9819052"
+            },
+            {
+                "class_nr": 21,
+                "class_name": "IMO_8003072"
+            },
+            {
+                "class_nr": 46,
+                "class_name": "IMO_9142631"
+            },
+            {
+                "class_nr": 18,
+                "class_name": "IMO_9247106"
+            },
+            {
+                "class_nr": 48,
+                "class_name": "IMO_9361354"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9819052/1.2984272.jpg",
+        "true": {
+            "class_nr": 10,
+            "class_name": "IMO_9819052"
+        },
+        "predicted": {
+            "class_nr": 10,
+            "class_name": "IMO_9819052"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 10,
+                "class_name": "IMO_9819052"
+            },
+            {
+                "class_nr": 48,
+                "class_name": "IMO_9361354"
+            },
+            {
+                "class_nr": 0,
+                "class_name": "IMO_7332787"
+            },
+            {
+                "class_nr": 43,
+                "class_name": "IMO_9863209"
+            },
+            {
+                "class_nr": 19,
+                "class_name": "IMO_9677399"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9819052/29.gioconda_9819052_2310301_Large.jpg",
+        "true": {
+            "class_nr": 10,
+            "class_name": "IMO_9819052"
+        },
+        "predicted": {
+            "class_nr": 10,
+            "class_name": "IMO_9819052"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 10,
+                "class_name": "IMO_9819052"
+            },
+            {
+                "class_nr": 48,
+                "class_name": "IMO_9361354"
+            },
+            {
+                "class_nr": 47,
+                "class_name": "IMO_4544092"
+            },
+            {
+                "class_nr": 19,
+                "class_name": "IMO_9677399"
+            },
+            {
+                "class_nr": 11,
+                "class_name": "IMO_8406157"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_8406157/14.3457034.jpg",
+        "true": {
+            "class_nr": 11,
+            "class_name": "IMO_8406157"
+        },
+        "predicted": {
+            "class_nr": 23,
+            "class_name": "IMO_8027767"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 23,
+                "class_name": "IMO_8027767"
+            },
+            {
+                "class_nr": 4,
+                "class_name": "IMO_8611958"
+            },
+            {
+                "class_nr": 11,
+                "class_name": "IMO_8406157"
+            },
+            {
+                "class_nr": 18,
+                "class_name": "IMO_9247106"
+            },
+            {
+                "class_nr": 38,
+                "class_name": "IMO_9706011"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_8406157/10.2940851.jpg",
+        "true": {
+            "class_nr": 11,
+            "class_name": "IMO_8406157"
+        },
+        "predicted": {
+            "class_nr": 11,
+            "class_name": "IMO_8406157"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 11,
+                "class_name": "IMO_8406157"
+            },
+            {
+                "class_nr": 40,
+                "class_name": "IMO_7004586"
+            },
+            {
+                "class_nr": 21,
+                "class_name": "IMO_8003072"
+            },
+            {
+                "class_nr": 38,
+                "class_name": "IMO_9706011"
+            },
+            {
+                "class_nr": 10,
+                "class_name": "IMO_9819052"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_8406157/19.2183219.jpg",
+        "true": {
+            "class_nr": 11,
+            "class_name": "IMO_8406157"
+        },
+        "predicted": {
+            "class_nr": 12,
+            "class_name": "IMO_8912493"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 12,
+                "class_name": "IMO_8912493"
+            },
+            {
+                "class_nr": 38,
+                "class_name": "IMO_9706011"
+            },
+            {
+                "class_nr": 40,
+                "class_name": "IMO_7004586"
+            },
+            {
+                "class_nr": 11,
+                "class_name": "IMO_8406157"
+            },
+            {
+                "class_nr": 36,
+                "class_name": "IMO_8876481"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_8912493/9.40600.jpg",
+        "true": {
+            "class_nr": 12,
+            "class_name": "IMO_8912493"
+        },
+        "predicted": {
+            "class_nr": 19,
+            "class_name": "IMO_9677399"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 19,
+                "class_name": "IMO_9677399"
+            },
+            {
+                "class_nr": 34,
+                "class_name": "IMO_9109043"
+            },
+            {
+                "class_nr": 12,
+                "class_name": "IMO_8912493"
+            },
+            {
+                "class_nr": 46,
+                "class_name": "IMO_9142631"
+            },
+            {
+                "class_nr": 4,
+                "class_name": "IMO_8611958"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_8912493/16.2470361.jpg",
+        "true": {
+            "class_nr": 12,
+            "class_name": "IMO_8912493"
+        },
+        "predicted": {
+            "class_nr": 12,
+            "class_name": "IMO_8912493"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 12,
+                "class_name": "IMO_8912493"
+            },
+            {
+                "class_nr": 34,
+                "class_name": "IMO_9109043"
+            },
+            {
+                "class_nr": 4,
+                "class_name": "IMO_8611958"
+            },
+            {
+                "class_nr": 15,
+                "class_name": "IMO_9144093"
+            },
+            {
+                "class_nr": 23,
+                "class_name": "IMO_8027767"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_8912493/20.359458.jpg",
+        "true": {
+            "class_nr": 12,
+            "class_name": "IMO_8912493"
+        },
+        "predicted": {
+            "class_nr": 46,
+            "class_name": "IMO_9142631"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 46,
+                "class_name": "IMO_9142631"
+            },
+            {
+                "class_nr": 34,
+                "class_name": "IMO_9109043"
+            },
+            {
+                "class_nr": 4,
+                "class_name": "IMO_8611958"
+            },
+            {
+                "class_nr": 48,
+                "class_name": "IMO_9361354"
+            },
+            {
+                "class_nr": 19,
+                "class_name": "IMO_9677399"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_6708147/8.820936.jpg",
+        "true": {
+            "class_nr": 13,
+            "class_name": "IMO_6708147"
+        },
+        "predicted": {
+            "class_nr": 28,
+            "class_name": "IMO_6519522"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 28,
+                "class_name": "IMO_6519522"
+            },
+            {
+                "class_nr": 48,
+                "class_name": "IMO_9361354"
+            },
+            {
+                "class_nr": 35,
+                "class_name": "IMO_7325681"
+            },
+            {
+                "class_nr": 16,
+                "class_name": "IMO_8897930"
+            },
+            {
+                "class_nr": 13,
+                "class_name": "IMO_6708147"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_6708147/9.2893110.jpg",
+        "true": {
+            "class_nr": 13,
+            "class_name": "IMO_6708147"
+        },
+        "predicted": {
+            "class_nr": 40,
+            "class_name": "IMO_7004586"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 40,
+                "class_name": "IMO_7004586"
+            },
+            {
+                "class_nr": 36,
+                "class_name": "IMO_8876481"
+            },
+            {
+                "class_nr": 32,
+                "class_name": "IMO_9075369"
+            },
+            {
+                "class_nr": 19,
+                "class_name": "IMO_9677399"
+            },
+            {
+                "class_nr": 25,
+                "class_name": "IMO_8943882"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_6708147/10.1110176.jpg",
+        "true": {
+            "class_nr": 13,
+            "class_name": "IMO_6708147"
+        },
+        "predicted": {
+            "class_nr": 32,
+            "class_name": "IMO_9075369"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 32,
+                "class_name": "IMO_9075369"
+            },
+            {
+                "class_nr": 12,
+                "class_name": "IMO_8912493"
+            },
+            {
+                "class_nr": 42,
+                "class_name": "IMO_6903486"
+            },
+            {
+                "class_nr": 27,
+                "class_name": "IMO_7728479"
+            },
+            {
+                "class_nr": 31,
+                "class_name": "IMO_5359652"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9473494/2.2969566.jpg",
+        "true": {
+            "class_nr": 14,
+            "class_name": "IMO_9473494"
+        },
+        "predicted": {
+            "class_nr": 24,
+            "class_name": "IMO_9383376"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 24,
+                "class_name": "IMO_9383376"
+            },
+            {
+                "class_nr": 14,
+                "class_name": "IMO_9473494"
+            },
+            {
+                "class_nr": 22,
+                "class_name": "IMO_9481192"
+            },
+            {
+                "class_nr": 29,
+                "class_name": "IMO_9473482"
+            },
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9473494/23.tidevind_9473494_118101_Small.jpg",
+        "true": {
+            "class_nr": 14,
+            "class_name": "IMO_9473494"
+        },
+        "predicted": {
+            "class_nr": 27,
+            "class_name": "IMO_7728479"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 27,
+                "class_name": "IMO_7728479"
+            },
+            {
+                "class_nr": 3,
+                "class_name": "IMO_6820919"
+            },
+            {
+                "class_nr": 29,
+                "class_name": "IMO_9473482"
+            },
+            {
+                "class_nr": 14,
+                "class_name": "IMO_9473494"
+            },
+            {
+                "class_nr": 28,
+                "class_name": "IMO_6519522"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9473494/1.2912325.jpg",
+        "true": {
+            "class_nr": 14,
+            "class_name": "IMO_9473494"
+        },
+        "predicted": {
+            "class_nr": 29,
+            "class_name": "IMO_9473482"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 29,
+                "class_name": "IMO_9473482"
+            },
+            {
+                "class_nr": 50,
+                "class_name": "IMO_9144081"
+            },
+            {
+                "class_nr": 52,
+                "class_name": "IMO_9771432"
+            },
+            {
+                "class_nr": 24,
+                "class_name": "IMO_9383376"
+            },
+            {
+                "class_nr": 15,
+                "class_name": "IMO_9144093"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9144093/1.3319720.jpg",
+        "true": {
+            "class_nr": 15,
+            "class_name": "IMO_9144093"
+        },
+        "predicted": {
+            "class_nr": 15,
+            "class_name": "IMO_9144093"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 15,
+                "class_name": "IMO_9144093"
+            },
+            {
+                "class_nr": 50,
+                "class_name": "IMO_9144081"
+            },
+            {
+                "class_nr": 3,
+                "class_name": "IMO_6820919"
+            },
+            {
+                "class_nr": 4,
+                "class_name": "IMO_8611958"
+            },
+            {
+                "class_nr": 35,
+                "class_name": "IMO_7325681"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9144093/4.3532856.jpg",
+        "true": {
+            "class_nr": 15,
+            "class_name": "IMO_9144093"
+        },
+        "predicted": {
+            "class_nr": 27,
+            "class_name": "IMO_7728479"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 27,
+                "class_name": "IMO_7728479"
+            },
+            {
+                "class_nr": 18,
+                "class_name": "IMO_9247106"
+            },
+            {
+                "class_nr": 50,
+                "class_name": "IMO_9144081"
+            },
+            {
+                "class_nr": 44,
+                "class_name": "IMO_9769219"
+            },
+            {
+                "class_nr": 41,
+                "class_name": "IMO_9353321"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9144093/8.3319722.jpg",
+        "true": {
+            "class_nr": 15,
+            "class_name": "IMO_9144093"
+        },
+        "predicted": {
+            "class_nr": 15,
+            "class_name": "IMO_9144093"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 15,
+                "class_name": "IMO_9144093"
+            },
+            {
+                "class_nr": 50,
+                "class_name": "IMO_9144081"
+            },
+            {
+                "class_nr": 8,
+                "class_name": "IMO_9878993"
+            },
+            {
+                "class_nr": 48,
+                "class_name": "IMO_9361354"
+            },
+            {
+                "class_nr": 41,
+                "class_name": "IMO_9353321"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_8897930/14.630394.jpg",
+        "true": {
+            "class_nr": 16,
+            "class_name": "IMO_8897930"
+        },
+        "predicted": {
+            "class_nr": 21,
+            "class_name": "IMO_8003072"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 21,
+                "class_name": "IMO_8003072"
+            },
+            {
+                "class_nr": 26,
+                "class_name": "IMO_5157626"
+            },
+            {
+                "class_nr": 16,
+                "class_name": "IMO_8897930"
+            },
+            {
+                "class_nr": 28,
+                "class_name": "IMO_6519522"
+            },
+            {
+                "class_nr": 35,
+                "class_name": "IMO_7325681"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_8897930/5.2907780.jpg",
+        "true": {
+            "class_nr": 16,
+            "class_name": "IMO_8897930"
+        },
+        "predicted": {
+            "class_nr": 16,
+            "class_name": "IMO_8897930"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 16,
+                "class_name": "IMO_8897930"
+            },
+            {
+                "class_nr": 28,
+                "class_name": "IMO_6519522"
+            },
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            },
+            {
+                "class_nr": 3,
+                "class_name": "IMO_6820919"
+            },
+            {
+                "class_nr": 25,
+                "class_name": "IMO_8943882"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_8897930/16.2040289.jpg",
+        "true": {
+            "class_nr": 16,
+            "class_name": "IMO_8897930"
+        },
+        "predicted": {
+            "class_nr": 16,
+            "class_name": "IMO_8897930"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 16,
+                "class_name": "IMO_8897930"
+            },
+            {
+                "class_nr": 28,
+                "class_name": "IMO_6519522"
+            },
+            {
+                "class_nr": 26,
+                "class_name": "IMO_5157626"
+            },
+            {
+                "class_nr": 25,
+                "class_name": "IMO_8943882"
+            },
+            {
+                "class_nr": 35,
+                "class_name": "IMO_7325681"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9771420/15.basto-iv_9771420_2654137_Small.jpg",
+        "true": {
+            "class_nr": 17,
+            "class_name": "IMO_9771420"
+        },
+        "predicted": {
+            "class_nr": 35,
+            "class_name": "IMO_7325681"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 35,
+                "class_name": "IMO_7325681"
+            },
+            {
+                "class_nr": 33,
+                "class_name": "IMO_9907990"
+            },
+            {
+                "class_nr": 46,
+                "class_name": "IMO_9142631"
+            },
+            {
+                "class_nr": 44,
+                "class_name": "IMO_9769219"
+            },
+            {
+                "class_nr": 38,
+                "class_name": "IMO_9706011"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9771420/23.20180801-dsc_1764_20180801_095652-2_1.jpg",
+        "true": {
+            "class_nr": 17,
+            "class_name": "IMO_9771420"
+        },
+        "predicted": {
+            "class_nr": 33,
+            "class_name": "IMO_9907990"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 33,
+                "class_name": "IMO_9907990"
+            },
+            {
+                "class_nr": 35,
+                "class_name": "IMO_7325681"
+            },
+            {
+                "class_nr": 8,
+                "class_name": "IMO_9878993"
+            },
+            {
+                "class_nr": 50,
+                "class_name": "IMO_9144081"
+            },
+            {
+                "class_nr": 44,
+                "class_name": "IMO_9769219"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9771420/21.basto-iv_9771420_3779205_Small.jpg",
+        "true": {
+            "class_nr": 17,
+            "class_name": "IMO_9771420"
+        },
+        "predicted": {
+            "class_nr": 52,
+            "class_name": "IMO_9771432"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 52,
+                "class_name": "IMO_9771432"
+            },
+            {
+                "class_nr": 17,
+                "class_name": "IMO_9771420"
+            },
+            {
+                "class_nr": 8,
+                "class_name": "IMO_9878993"
+            },
+            {
+                "class_nr": 44,
+                "class_name": "IMO_9769219"
+            },
+            {
+                "class_nr": 22,
+                "class_name": "IMO_9481192"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9247106/1.2127957.jpg",
+        "true": {
+            "class_nr": 18,
+            "class_name": "IMO_9247106"
+        },
+        "predicted": {
+            "class_nr": 18,
+            "class_name": "IMO_9247106"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 18,
+                "class_name": "IMO_9247106"
+            },
+            {
+                "class_nr": 48,
+                "class_name": "IMO_9361354"
+            },
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            },
+            {
+                "class_nr": 12,
+                "class_name": "IMO_8912493"
+            },
+            {
+                "class_nr": 41,
+                "class_name": "IMO_9353321"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9247106/9.aasheim_9247106_3699257_XLarge.jpg",
+        "true": {
+            "class_nr": 18,
+            "class_name": "IMO_9247106"
+        },
+        "predicted": {
+            "class_nr": 18,
+            "class_name": "IMO_9247106"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 18,
+                "class_name": "IMO_9247106"
+            },
+            {
+                "class_nr": 19,
+                "class_name": "IMO_9677399"
+            },
+            {
+                "class_nr": 24,
+                "class_name": "IMO_9383376"
+            },
+            {
+                "class_nr": 33,
+                "class_name": "IMO_9907990"
+            },
+            {
+                "class_nr": 12,
+                "class_name": "IMO_8912493"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9247106/10.aasheim_9247106_3889689_XLarge.jpg",
+        "true": {
+            "class_nr": 18,
+            "class_name": "IMO_9247106"
+        },
+        "predicted": {
+            "class_nr": 42,
+            "class_name": "IMO_6903486"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 42,
+                "class_name": "IMO_6903486"
+            },
+            {
+                "class_nr": 51,
+                "class_name": "IMO_9359375"
+            },
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            },
+            {
+                "class_nr": 31,
+                "class_name": "IMO_5359652"
+            },
+            {
+                "class_nr": 18,
+                "class_name": "IMO_9247106"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9677399/3.1813753.jpg",
+        "true": {
+            "class_nr": 19,
+            "class_name": "IMO_9677399"
+        },
+        "predicted": {
+            "class_nr": 19,
+            "class_name": "IMO_9677399"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 19,
+                "class_name": "IMO_9677399"
+            },
+            {
+                "class_nr": 46,
+                "class_name": "IMO_9142631"
+            },
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            },
+            {
+                "class_nr": 34,
+                "class_name": "IMO_9109043"
+            },
+            {
+                "class_nr": 10,
+                "class_name": "IMO_9819052"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9677399/6.alice_9677399_2248405_Large.jpg",
+        "true": {
+            "class_nr": 19,
+            "class_name": "IMO_9677399"
+        },
+        "predicted": {
+            "class_nr": 18,
+            "class_name": "IMO_9247106"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 18,
+                "class_name": "IMO_9247106"
+            },
+            {
+                "class_nr": 48,
+                "class_name": "IMO_9361354"
+            },
+            {
+                "class_nr": 34,
+                "class_name": "IMO_9109043"
+            },
+            {
+                "class_nr": 4,
+                "class_name": "IMO_8611958"
+            },
+            {
+                "class_nr": 12,
+                "class_name": "IMO_8912493"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9677399/5.alice_9677399_2478685_Large.jpg",
+        "true": {
+            "class_nr": 19,
+            "class_name": "IMO_9677399"
+        },
+        "predicted": {
+            "class_nr": 19,
+            "class_name": "IMO_9677399"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 19,
+                "class_name": "IMO_9677399"
+            },
+            {
+                "class_nr": 46,
+                "class_name": "IMO_9142631"
+            },
+            {
+                "class_nr": 36,
+                "class_name": "IMO_8876481"
+            },
+            {
+                "class_nr": 4,
+                "class_name": "IMO_8611958"
+            },
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_8739009/3.3466768.jpg",
+        "true": {
+            "class_nr": 20,
+            "class_name": "IMO_8739009"
+        },
+        "predicted": {
+            "class_nr": 50,
+            "class_name": "IMO_9144081"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 50,
+                "class_name": "IMO_9144081"
+            },
+            {
+                "class_nr": 33,
+                "class_name": "IMO_9907990"
+            },
+            {
+                "class_nr": 3,
+                "class_name": "IMO_6820919"
+            },
+            {
+                "class_nr": 27,
+                "class_name": "IMO_7728479"
+            },
+            {
+                "class_nr": 29,
+                "class_name": "IMO_9473482"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_8739009/8.vederoy_8739009_1817219_Medium.jpg",
+        "true": {
+            "class_nr": 20,
+            "class_name": "IMO_8739009"
+        },
+        "predicted": {
+            "class_nr": 1,
+            "class_name": "IMO_7814333"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            },
+            {
+                "class_nr": 28,
+                "class_name": "IMO_6519522"
+            },
+            {
+                "class_nr": 46,
+                "class_name": "IMO_9142631"
+            },
+            {
+                "class_nr": 40,
+                "class_name": "IMO_7004586"
+            },
+            {
+                "class_nr": 41,
+                "class_name": "IMO_9353321"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_8739009/1.3204111.jpg",
+        "true": {
+            "class_nr": 20,
+            "class_name": "IMO_8739009"
+        },
+        "predicted": {
+            "class_nr": 29,
+            "class_name": "IMO_9473482"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 29,
+                "class_name": "IMO_9473482"
+            },
+            {
+                "class_nr": 20,
+                "class_name": "IMO_8739009"
+            },
+            {
+                "class_nr": 0,
+                "class_name": "IMO_7332787"
+            },
+            {
+                "class_nr": 46,
+                "class_name": "IMO_9142631"
+            },
+            {
+                "class_nr": 49,
+                "class_name": "IMO_7048491"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_8003072/16.2985974.jpg",
+        "true": {
+            "class_nr": 21,
+            "class_name": "IMO_8003072"
+        },
+        "predicted": {
+            "class_nr": 38,
+            "class_name": "IMO_9706011"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 38,
+                "class_name": "IMO_9706011"
+            },
+            {
+                "class_nr": 40,
+                "class_name": "IMO_7004586"
+            },
+            {
+                "class_nr": 21,
+                "class_name": "IMO_8003072"
+            },
+            {
+                "class_nr": 11,
+                "class_name": "IMO_8406157"
+            },
+            {
+                "class_nr": 13,
+                "class_name": "IMO_6708147"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_8003072/1.2778397.jpg",
+        "true": {
+            "class_nr": 21,
+            "class_name": "IMO_8003072"
+        },
+        "predicted": {
+            "class_nr": 38,
+            "class_name": "IMO_9706011"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 38,
+                "class_name": "IMO_9706011"
+            },
+            {
+                "class_nr": 21,
+                "class_name": "IMO_8003072"
+            },
+            {
+                "class_nr": 47,
+                "class_name": "IMO_4544092"
+            },
+            {
+                "class_nr": 28,
+                "class_name": "IMO_6519522"
+            },
+            {
+                "class_nr": 37,
+                "class_name": "IMO_9008641"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_8003072/27.711317.jpg",
+        "true": {
+            "class_nr": 21,
+            "class_name": "IMO_8003072"
+        },
+        "predicted": {
+            "class_nr": 5,
+            "class_name": "IMO_8638449"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 5,
+                "class_name": "IMO_8638449"
+            },
+            {
+                "class_nr": 11,
+                "class_name": "IMO_8406157"
+            },
+            {
+                "class_nr": 19,
+                "class_name": "IMO_9677399"
+            },
+            {
+                "class_nr": 21,
+                "class_name": "IMO_8003072"
+            },
+            {
+                "class_nr": 30,
+                "class_name": "IMO_9861263"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9481192/28.dronningen_9481192_690794_Medium.jpg",
+        "true": {
+            "class_nr": 22,
+            "class_name": "IMO_9481192"
+        },
+        "predicted": {
+            "class_nr": 39,
+            "class_name": "IMO_9481207"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 39,
+                "class_name": "IMO_9481207"
+            },
+            {
+                "class_nr": 6,
+                "class_name": "IMO_9481166"
+            },
+            {
+                "class_nr": 22,
+                "class_name": "IMO_9481192"
+            },
+            {
+                "class_nr": 29,
+                "class_name": "IMO_9473482"
+            },
+            {
+                "class_nr": 3,
+                "class_name": "IMO_6820919"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9481192/11.2659505.jpg",
+        "true": {
+            "class_nr": 22,
+            "class_name": "IMO_9481192"
+        },
+        "predicted": {
+            "class_nr": 6,
+            "class_name": "IMO_9481166"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 6,
+                "class_name": "IMO_9481166"
+            },
+            {
+                "class_nr": 39,
+                "class_name": "IMO_9481207"
+            },
+            {
+                "class_nr": 22,
+                "class_name": "IMO_9481192"
+            },
+            {
+                "class_nr": 33,
+                "class_name": "IMO_9907990"
+            },
+            {
+                "class_nr": 2,
+                "class_name": "IMO_9921788"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9481192/24.3326544.jpg",
+        "true": {
+            "class_nr": 22,
+            "class_name": "IMO_9481192"
+        },
+        "predicted": {
+            "class_nr": 22,
+            "class_name": "IMO_9481192"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 22,
+                "class_name": "IMO_9481192"
+            },
+            {
+                "class_nr": 39,
+                "class_name": "IMO_9481207"
+            },
+            {
+                "class_nr": 6,
+                "class_name": "IMO_9481166"
+            },
+            {
+                "class_nr": 28,
+                "class_name": "IMO_6519522"
+            },
+            {
+                "class_nr": 33,
+                "class_name": "IMO_9907990"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_8027767/29.tug-bauge_8027767_2194985_Medium.jpg",
+        "true": {
+            "class_nr": 23,
+            "class_name": "IMO_8027767"
+        },
+        "predicted": {
+            "class_nr": 23,
+            "class_name": "IMO_8027767"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 23,
+                "class_name": "IMO_8027767"
+            },
+            {
+                "class_nr": 3,
+                "class_name": "IMO_6820919"
+            },
+            {
+                "class_nr": 13,
+                "class_name": "IMO_6708147"
+            },
+            {
+                "class_nr": 27,
+                "class_name": "IMO_7728479"
+            },
+            {
+                "class_nr": 48,
+                "class_name": "IMO_9361354"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_8027767/8.2516522.jpg",
+        "true": {
+            "class_nr": 23,
+            "class_name": "IMO_8027767"
+        },
+        "predicted": {
+            "class_nr": 23,
+            "class_name": "IMO_8027767"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 23,
+                "class_name": "IMO_8027767"
+            },
+            {
+                "class_nr": 45,
+                "class_name": "IMO_8986303"
+            },
+            {
+                "class_nr": 22,
+                "class_name": "IMO_9481192"
+            },
+            {
+                "class_nr": 41,
+                "class_name": "IMO_9353321"
+            },
+            {
+                "class_nr": 33,
+                "class_name": "IMO_9907990"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_8027767/7.2074250.jpg",
+        "true": {
+            "class_nr": 23,
+            "class_name": "IMO_8027767"
+        },
+        "predicted": {
+            "class_nr": 23,
+            "class_name": "IMO_8027767"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 23,
+                "class_name": "IMO_8027767"
+            },
+            {
+                "class_nr": 25,
+                "class_name": "IMO_8943882"
+            },
+            {
+                "class_nr": 0,
+                "class_name": "IMO_7332787"
+            },
+            {
+                "class_nr": 50,
+                "class_name": "IMO_9144081"
+            },
+            {
+                "class_nr": 14,
+                "class_name": "IMO_9473494"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9383376/1.2206305.jpg",
+        "true": {
+            "class_nr": 24,
+            "class_name": "IMO_9383376"
+        },
+        "predicted": {
+            "class_nr": 24,
+            "class_name": "IMO_9383376"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 24,
+                "class_name": "IMO_9383376"
+            },
+            {
+                "class_nr": 40,
+                "class_name": "IMO_7004586"
+            },
+            {
+                "class_nr": 47,
+                "class_name": "IMO_4544092"
+            },
+            {
+                "class_nr": 43,
+                "class_name": "IMO_9863209"
+            },
+            {
+                "class_nr": 9,
+                "class_name": "IMO_4544119"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9383376/9.1271603.jpg",
+        "true": {
+            "class_nr": 24,
+            "class_name": "IMO_9383376"
+        },
+        "predicted": {
+            "class_nr": 24,
+            "class_name": "IMO_9383376"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 24,
+                "class_name": "IMO_9383376"
+            },
+            {
+                "class_nr": 3,
+                "class_name": "IMO_6820919"
+            },
+            {
+                "class_nr": 17,
+                "class_name": "IMO_9771420"
+            },
+            {
+                "class_nr": 29,
+                "class_name": "IMO_9473482"
+            },
+            {
+                "class_nr": 44,
+                "class_name": "IMO_9769219"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9383376/10.fjordfart_9383376_1446967_Large.jpg",
+        "true": {
+            "class_nr": 24,
+            "class_name": "IMO_9383376"
+        },
+        "predicted": {
+            "class_nr": 24,
+            "class_name": "IMO_9383376"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 24,
+                "class_name": "IMO_9383376"
+            },
+            {
+                "class_nr": 14,
+                "class_name": "IMO_9473494"
+            },
+            {
+                "class_nr": 47,
+                "class_name": "IMO_4544092"
+            },
+            {
+                "class_nr": 29,
+                "class_name": "IMO_9473482"
+            },
+            {
+                "class_nr": 22,
+                "class_name": "IMO_9481192"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_8943882/4.3105405.jpg",
+        "true": {
+            "class_nr": 25,
+            "class_name": "IMO_8943882"
+        },
+        "predicted": {
+            "class_nr": 25,
+            "class_name": "IMO_8943882"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 25,
+                "class_name": "IMO_8943882"
+            },
+            {
+                "class_nr": 35,
+                "class_name": "IMO_7325681"
+            },
+            {
+                "class_nr": 28,
+                "class_name": "IMO_6519522"
+            },
+            {
+                "class_nr": 14,
+                "class_name": "IMO_9473494"
+            },
+            {
+                "class_nr": 24,
+                "class_name": "IMO_9383376"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_8943882/5.567768.jpg",
+        "true": {
+            "class_nr": 25,
+            "class_name": "IMO_8943882"
+        },
+        "predicted": {
+            "class_nr": 25,
+            "class_name": "IMO_8943882"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 25,
+                "class_name": "IMO_8943882"
+            },
+            {
+                "class_nr": 28,
+                "class_name": "IMO_6519522"
+            },
+            {
+                "class_nr": 43,
+                "class_name": "IMO_9863209"
+            },
+            {
+                "class_nr": 41,
+                "class_name": "IMO_9353321"
+            },
+            {
+                "class_nr": 0,
+                "class_name": "IMO_7332787"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_8943882/6.973021.jpg",
+        "true": {
+            "class_nr": 25,
+            "class_name": "IMO_8943882"
+        },
+        "predicted": {
+            "class_nr": 25,
+            "class_name": "IMO_8943882"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 25,
+                "class_name": "IMO_8943882"
+            },
+            {
+                "class_nr": 41,
+                "class_name": "IMO_9353321"
+            },
+            {
+                "class_nr": 17,
+                "class_name": "IMO_9771420"
+            },
+            {
+                "class_nr": 28,
+                "class_name": "IMO_6519522"
+            },
+            {
+                "class_nr": 21,
+                "class_name": "IMO_8003072"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_5157626/21.boroysund_5157626_3465437_XLarge.jpg",
+        "true": {
+            "class_nr": 26,
+            "class_name": "IMO_5157626"
+        },
+        "predicted": {
+            "class_nr": 26,
+            "class_name": "IMO_5157626"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 26,
+                "class_name": "IMO_5157626"
+            },
+            {
+                "class_nr": 28,
+                "class_name": "IMO_6519522"
+            },
+            {
+                "class_nr": 16,
+                "class_name": "IMO_8897930"
+            },
+            {
+                "class_nr": 41,
+                "class_name": "IMO_9353321"
+            },
+            {
+                "class_nr": 35,
+                "class_name": "IMO_7325681"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_5157626/6.3461330.jpg",
+        "true": {
+            "class_nr": 26,
+            "class_name": "IMO_5157626"
+        },
+        "predicted": {
+            "class_nr": 26,
+            "class_name": "IMO_5157626"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 26,
+                "class_name": "IMO_5157626"
+            },
+            {
+                "class_nr": 28,
+                "class_name": "IMO_6519522"
+            },
+            {
+                "class_nr": 21,
+                "class_name": "IMO_8003072"
+            },
+            {
+                "class_nr": 0,
+                "class_name": "IMO_7332787"
+            },
+            {
+                "class_nr": 11,
+                "class_name": "IMO_8406157"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_5157626/7.3449619.jpg",
+        "true": {
+            "class_nr": 26,
+            "class_name": "IMO_5157626"
+        },
+        "predicted": {
+            "class_nr": 26,
+            "class_name": "IMO_5157626"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 26,
+                "class_name": "IMO_5157626"
+            },
+            {
+                "class_nr": 23,
+                "class_name": "IMO_8027767"
+            },
+            {
+                "class_nr": 14,
+                "class_name": "IMO_9473494"
+            },
+            {
+                "class_nr": 43,
+                "class_name": "IMO_9863209"
+            },
+            {
+                "class_nr": 13,
+                "class_name": "IMO_6708147"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_7728479/16.3232382.jpg",
+        "true": {
+            "class_nr": 27,
+            "class_name": "IMO_7728479"
+        },
+        "predicted": {
+            "class_nr": 44,
+            "class_name": "IMO_9769219"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 44,
+                "class_name": "IMO_9769219"
+            },
+            {
+                "class_nr": 5,
+                "class_name": "IMO_8638449"
+            },
+            {
+                "class_nr": 18,
+                "class_name": "IMO_9247106"
+            },
+            {
+                "class_nr": 39,
+                "class_name": "IMO_9481207"
+            },
+            {
+                "class_nr": 49,
+                "class_name": "IMO_7048491"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_7728479/5.1382818.jpg",
+        "true": {
+            "class_nr": 27,
+            "class_name": "IMO_7728479"
+        },
+        "predicted": {
+            "class_nr": 26,
+            "class_name": "IMO_5157626"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 26,
+                "class_name": "IMO_5157626"
+            },
+            {
+                "class_nr": 27,
+                "class_name": "IMO_7728479"
+            },
+            {
+                "class_nr": 33,
+                "class_name": "IMO_9907990"
+            },
+            {
+                "class_nr": 3,
+                "class_name": "IMO_6820919"
+            },
+            {
+                "class_nr": 32,
+                "class_name": "IMO_9075369"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_7728479/12.3394621.jpg",
+        "true": {
+            "class_nr": 27,
+            "class_name": "IMO_7728479"
+        },
+        "predicted": {
+            "class_nr": 27,
+            "class_name": "IMO_7728479"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 27,
+                "class_name": "IMO_7728479"
+            },
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            },
+            {
+                "class_nr": 0,
+                "class_name": "IMO_7332787"
+            },
+            {
+                "class_nr": 44,
+                "class_name": "IMO_9769219"
+            },
+            {
+                "class_nr": 49,
+                "class_name": "IMO_7048491"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_6519522/6.2027367.jpg",
+        "true": {
+            "class_nr": 28,
+            "class_name": "IMO_6519522"
+        },
+        "predicted": {
+            "class_nr": 28,
+            "class_name": "IMO_6519522"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 28,
+                "class_name": "IMO_6519522"
+            },
+            {
+                "class_nr": 42,
+                "class_name": "IMO_6903486"
+            },
+            {
+                "class_nr": 7,
+                "class_name": "IMO_9870422"
+            },
+            {
+                "class_nr": 12,
+                "class_name": "IMO_8912493"
+            },
+            {
+                "class_nr": 44,
+                "class_name": "IMO_9769219"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_6519522/11.2131681.jpg",
+        "true": {
+            "class_nr": 28,
+            "class_name": "IMO_6519522"
+        },
+        "predicted": {
+            "class_nr": 28,
+            "class_name": "IMO_6519522"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 28,
+                "class_name": "IMO_6519522"
+            },
+            {
+                "class_nr": 24,
+                "class_name": "IMO_9383376"
+            },
+            {
+                "class_nr": 43,
+                "class_name": "IMO_9863209"
+            },
+            {
+                "class_nr": 52,
+                "class_name": "IMO_9771432"
+            },
+            {
+                "class_nr": 8,
+                "class_name": "IMO_9878993"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_6519522/10.3532937.jpg",
+        "true": {
+            "class_nr": 28,
+            "class_name": "IMO_6519522"
+        },
+        "predicted": {
+            "class_nr": 28,
+            "class_name": "IMO_6519522"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 28,
+                "class_name": "IMO_6519522"
+            },
+            {
+                "class_nr": 16,
+                "class_name": "IMO_8897930"
+            },
+            {
+                "class_nr": 25,
+                "class_name": "IMO_8943882"
+            },
+            {
+                "class_nr": 29,
+                "class_name": "IMO_9473482"
+            },
+            {
+                "class_nr": 40,
+                "class_name": "IMO_7004586"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9473482/8.3316323.jpg",
+        "true": {
+            "class_nr": 29,
+            "class_name": "IMO_9473482"
+        },
+        "predicted": {
+            "class_nr": 29,
+            "class_name": "IMO_9473482"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 29,
+                "class_name": "IMO_9473482"
+            },
+            {
+                "class_nr": 24,
+                "class_name": "IMO_9383376"
+            },
+            {
+                "class_nr": 25,
+                "class_name": "IMO_8943882"
+            },
+            {
+                "class_nr": 14,
+                "class_name": "IMO_9473494"
+            },
+            {
+                "class_nr": 52,
+                "class_name": "IMO_9771432"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9473482/24.normal_1565046087.jpg",
+        "true": {
+            "class_nr": 29,
+            "class_name": "IMO_9473482"
+        },
+        "predicted": {
+            "class_nr": 29,
+            "class_name": "IMO_9473482"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 29,
+                "class_name": "IMO_9473482"
+            },
+            {
+                "class_nr": 7,
+                "class_name": "IMO_9870422"
+            },
+            {
+                "class_nr": 44,
+                "class_name": "IMO_9769219"
+            },
+            {
+                "class_nr": 42,
+                "class_name": "IMO_6903486"
+            },
+            {
+                "class_nr": 43,
+                "class_name": "IMO_9863209"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9473482/6.3316322.jpg",
+        "true": {
+            "class_nr": 29,
+            "class_name": "IMO_9473482"
+        },
+        "predicted": {
+            "class_nr": 33,
+            "class_name": "IMO_9907990"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 33,
+                "class_name": "IMO_9907990"
+            },
+            {
+                "class_nr": 29,
+                "class_name": "IMO_9473482"
+            },
+            {
+                "class_nr": 44,
+                "class_name": "IMO_9769219"
+            },
+            {
+                "class_nr": 52,
+                "class_name": "IMO_9771432"
+            },
+            {
+                "class_nr": 24,
+                "class_name": "IMO_9383376"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9861263/16.3053805.jpg",
+        "true": {
+            "class_nr": 30,
+            "class_name": "IMO_9861263"
+        },
+        "predicted": {
+            "class_nr": 30,
+            "class_name": "IMO_9861263"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 30,
+                "class_name": "IMO_9861263"
+            },
+            {
+                "class_nr": 42,
+                "class_name": "IMO_6903486"
+            },
+            {
+                "class_nr": 4,
+                "class_name": "IMO_8611958"
+            },
+            {
+                "class_nr": 19,
+                "class_name": "IMO_9677399"
+            },
+            {
+                "class_nr": 32,
+                "class_name": "IMO_9075369"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9861263/7.3044568.jpg",
+        "true": {
+            "class_nr": 30,
+            "class_name": "IMO_9861263"
+        },
+        "predicted": {
+            "class_nr": 30,
+            "class_name": "IMO_9861263"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 30,
+                "class_name": "IMO_9861263"
+            },
+            {
+                "class_nr": 10,
+                "class_name": "IMO_9819052"
+            },
+            {
+                "class_nr": 0,
+                "class_name": "IMO_7332787"
+            },
+            {
+                "class_nr": 2,
+                "class_name": "IMO_9921788"
+            },
+            {
+                "class_nr": 42,
+                "class_name": "IMO_6903486"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9861263/14.3051014.jpg",
+        "true": {
+            "class_nr": 30,
+            "class_name": "IMO_9861263"
+        },
+        "predicted": {
+            "class_nr": 30,
+            "class_name": "IMO_9861263"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 30,
+                "class_name": "IMO_9861263"
+            },
+            {
+                "class_nr": 46,
+                "class_name": "IMO_9142631"
+            },
+            {
+                "class_nr": 0,
+                "class_name": "IMO_7332787"
+            },
+            {
+                "class_nr": 23,
+                "class_name": "IMO_8027767"
+            },
+            {
+                "class_nr": 48,
+                "class_name": "IMO_9361354"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_5359652/2.1901183.jpg",
+        "true": {
+            "class_nr": 31,
+            "class_name": "IMO_5359652"
+        },
+        "predicted": {
+            "class_nr": 31,
+            "class_name": "IMO_5359652"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 31,
+                "class_name": "IMO_5359652"
+            },
+            {
+                "class_nr": 36,
+                "class_name": "IMO_8876481"
+            },
+            {
+                "class_nr": 10,
+                "class_name": "IMO_9819052"
+            },
+            {
+                "class_nr": 0,
+                "class_name": "IMO_7332787"
+            },
+            {
+                "class_nr": 41,
+                "class_name": "IMO_9353321"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_5359652/1.1131737.jpg",
+        "true": {
+            "class_nr": 31,
+            "class_name": "IMO_5359652"
+        },
+        "predicted": {
+            "class_nr": 1,
+            "class_name": "IMO_7814333"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            },
+            {
+                "class_nr": 31,
+                "class_name": "IMO_5359652"
+            },
+            {
+                "class_nr": 15,
+                "class_name": "IMO_9144093"
+            },
+            {
+                "class_nr": 3,
+                "class_name": "IMO_6820919"
+            },
+            {
+                "class_nr": 50,
+                "class_name": "IMO_9144081"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_5359652/14.1491426.jpg",
+        "true": {
+            "class_nr": 31,
+            "class_name": "IMO_5359652"
+        },
+        "predicted": {
+            "class_nr": 31,
+            "class_name": "IMO_5359652"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 31,
+                "class_name": "IMO_5359652"
+            },
+            {
+                "class_nr": 15,
+                "class_name": "IMO_9144093"
+            },
+            {
+                "class_nr": 41,
+                "class_name": "IMO_9353321"
+            },
+            {
+                "class_nr": 0,
+                "class_name": "IMO_7332787"
+            },
+            {
+                "class_nr": 3,
+                "class_name": "IMO_6820919"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9075369/4.3213905.jpg",
+        "true": {
+            "class_nr": 32,
+            "class_name": "IMO_9075369"
+        },
+        "predicted": {
+            "class_nr": 32,
+            "class_name": "IMO_9075369"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 32,
+                "class_name": "IMO_9075369"
+            },
+            {
+                "class_nr": 23,
+                "class_name": "IMO_8027767"
+            },
+            {
+                "class_nr": 4,
+                "class_name": "IMO_8611958"
+            },
+            {
+                "class_nr": 42,
+                "class_name": "IMO_6903486"
+            },
+            {
+                "class_nr": 47,
+                "class_name": "IMO_4544092"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9075369/20.3095709.jpg",
+        "true": {
+            "class_nr": 32,
+            "class_name": "IMO_9075369"
+        },
+        "predicted": {
+            "class_nr": 32,
+            "class_name": "IMO_9075369"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 32,
+                "class_name": "IMO_9075369"
+            },
+            {
+                "class_nr": 27,
+                "class_name": "IMO_7728479"
+            },
+            {
+                "class_nr": 47,
+                "class_name": "IMO_4544092"
+            },
+            {
+                "class_nr": 52,
+                "class_name": "IMO_9771432"
+            },
+            {
+                "class_nr": 0,
+                "class_name": "IMO_7332787"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9075369/5.1648083.jpg",
+        "true": {
+            "class_nr": 32,
+            "class_name": "IMO_9075369"
+        },
+        "predicted": {
+            "class_nr": 32,
+            "class_name": "IMO_9075369"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 32,
+                "class_name": "IMO_9075369"
+            },
+            {
+                "class_nr": 42,
+                "class_name": "IMO_6903486"
+            },
+            {
+                "class_nr": 4,
+                "class_name": "IMO_8611958"
+            },
+            {
+                "class_nr": 15,
+                "class_name": "IMO_9144093"
+            },
+            {
+                "class_nr": 0,
+                "class_name": "IMO_7332787"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9907990/8.3352283.jpg",
+        "true": {
+            "class_nr": 33,
+            "class_name": "IMO_9907990"
+        },
+        "predicted": {
+            "class_nr": 33,
+            "class_name": "IMO_9907990"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 33,
+                "class_name": "IMO_9907990"
+            },
+            {
+                "class_nr": 50,
+                "class_name": "IMO_9144081"
+            },
+            {
+                "class_nr": 44,
+                "class_name": "IMO_9769219"
+            },
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            },
+            {
+                "class_nr": 52,
+                "class_name": "IMO_9771432"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9907990/9.svelvik_9907990_3390321_Large.jpg",
+        "true": {
+            "class_nr": 33,
+            "class_name": "IMO_9907990"
+        },
+        "predicted": {
+            "class_nr": 33,
+            "class_name": "IMO_9907990"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 33,
+                "class_name": "IMO_9907990"
+            },
+            {
+                "class_nr": 48,
+                "class_name": "IMO_9361354"
+            },
+            {
+                "class_nr": 44,
+                "class_name": "IMO_9769219"
+            },
+            {
+                "class_nr": 52,
+                "class_name": "IMO_9771432"
+            },
+            {
+                "class_nr": 6,
+                "class_name": "IMO_9481166"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9907990/12.svelvik_9907990_3414493_Large.jpg",
+        "true": {
+            "class_nr": 33,
+            "class_name": "IMO_9907990"
+        },
+        "predicted": {
+            "class_nr": 33,
+            "class_name": "IMO_9907990"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 33,
+                "class_name": "IMO_9907990"
+            },
+            {
+                "class_nr": 16,
+                "class_name": "IMO_8897930"
+            },
+            {
+                "class_nr": 31,
+                "class_name": "IMO_5359652"
+            },
+            {
+                "class_nr": 8,
+                "class_name": "IMO_9878993"
+            },
+            {
+                "class_nr": 24,
+                "class_name": "IMO_9383376"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9109043/14.3288138.jpg",
+        "true": {
+            "class_nr": 34,
+            "class_name": "IMO_9109043"
+        },
+        "predicted": {
+            "class_nr": 34,
+            "class_name": "IMO_9109043"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 34,
+                "class_name": "IMO_9109043"
+            },
+            {
+                "class_nr": 12,
+                "class_name": "IMO_8912493"
+            },
+            {
+                "class_nr": 32,
+                "class_name": "IMO_9075369"
+            },
+            {
+                "class_nr": 48,
+                "class_name": "IMO_9361354"
+            },
+            {
+                "class_nr": 0,
+                "class_name": "IMO_7332787"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9109043/28.278588.jpg",
+        "true": {
+            "class_nr": 34,
+            "class_name": "IMO_9109043"
+        },
+        "predicted": {
+            "class_nr": 34,
+            "class_name": "IMO_9109043"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 34,
+                "class_name": "IMO_9109043"
+            },
+            {
+                "class_nr": 48,
+                "class_name": "IMO_9361354"
+            },
+            {
+                "class_nr": 4,
+                "class_name": "IMO_8611958"
+            },
+            {
+                "class_nr": 32,
+                "class_name": "IMO_9075369"
+            },
+            {
+                "class_nr": 51,
+                "class_name": "IMO_9359375"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9109043/12.573657.jpg",
+        "true": {
+            "class_nr": 34,
+            "class_name": "IMO_9109043"
+        },
+        "predicted": {
+            "class_nr": 30,
+            "class_name": "IMO_9861263"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 30,
+                "class_name": "IMO_9861263"
+            },
+            {
+                "class_nr": 10,
+                "class_name": "IMO_9819052"
+            },
+            {
+                "class_nr": 48,
+                "class_name": "IMO_9361354"
+            },
+            {
+                "class_nr": 34,
+                "class_name": "IMO_9109043"
+            },
+            {
+                "class_nr": 16,
+                "class_name": "IMO_8897930"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_7325681/2.2816560.jpg",
+        "true": {
+            "class_nr": 35,
+            "class_name": "IMO_7325681"
+        },
+        "predicted": {
+            "class_nr": 2,
+            "class_name": "IMO_9921788"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 2,
+                "class_name": "IMO_9921788"
+            },
+            {
+                "class_nr": 35,
+                "class_name": "IMO_7325681"
+            },
+            {
+                "class_nr": 45,
+                "class_name": "IMO_8986303"
+            },
+            {
+                "class_nr": 26,
+                "class_name": "IMO_5157626"
+            },
+            {
+                "class_nr": 34,
+                "class_name": "IMO_9109043"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_7325681/1.3241811.jpg",
+        "true": {
+            "class_nr": 35,
+            "class_name": "IMO_7325681"
+        },
+        "predicted": {
+            "class_nr": 39,
+            "class_name": "IMO_9481207"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 39,
+                "class_name": "IMO_9481207"
+            },
+            {
+                "class_nr": 38,
+                "class_name": "IMO_9706011"
+            },
+            {
+                "class_nr": 35,
+                "class_name": "IMO_7325681"
+            },
+            {
+                "class_nr": 6,
+                "class_name": "IMO_9481166"
+            },
+            {
+                "class_nr": 22,
+                "class_name": "IMO_9481192"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_7325681/3.2796572.jpg",
+        "true": {
+            "class_nr": 35,
+            "class_name": "IMO_7325681"
+        },
+        "predicted": {
+            "class_nr": 35,
+            "class_name": "IMO_7325681"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 35,
+                "class_name": "IMO_7325681"
+            },
+            {
+                "class_nr": 26,
+                "class_name": "IMO_5157626"
+            },
+            {
+                "class_nr": 31,
+                "class_name": "IMO_5359652"
+            },
+            {
+                "class_nr": 22,
+                "class_name": "IMO_9481192"
+            },
+            {
+                "class_nr": 13,
+                "class_name": "IMO_6708147"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_8876481/5.3259062.jpg",
+        "true": {
+            "class_nr": 36,
+            "class_name": "IMO_8876481"
+        },
+        "predicted": {
+            "class_nr": 36,
+            "class_name": "IMO_8876481"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 36,
+                "class_name": "IMO_8876481"
+            },
+            {
+                "class_nr": 33,
+                "class_name": "IMO_9907990"
+            },
+            {
+                "class_nr": 5,
+                "class_name": "IMO_8638449"
+            },
+            {
+                "class_nr": 45,
+                "class_name": "IMO_8986303"
+            },
+            {
+                "class_nr": 11,
+                "class_name": "IMO_8406157"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_8876481/6.48716.jpg",
+        "true": {
+            "class_nr": 36,
+            "class_name": "IMO_8876481"
+        },
+        "predicted": {
+            "class_nr": 36,
+            "class_name": "IMO_8876481"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 36,
+                "class_name": "IMO_8876481"
+            },
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            },
+            {
+                "class_nr": 19,
+                "class_name": "IMO_9677399"
+            },
+            {
+                "class_nr": 30,
+                "class_name": "IMO_9861263"
+            },
+            {
+                "class_nr": 40,
+                "class_name": "IMO_7004586"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_8876481/17.1728407.jpg",
+        "true": {
+            "class_nr": 36,
+            "class_name": "IMO_8876481"
+        },
+        "predicted": {
+            "class_nr": 47,
+            "class_name": "IMO_4544092"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 47,
+                "class_name": "IMO_4544092"
+            },
+            {
+                "class_nr": 27,
+                "class_name": "IMO_7728479"
+            },
+            {
+                "class_nr": 0,
+                "class_name": "IMO_7332787"
+            },
+            {
+                "class_nr": 41,
+                "class_name": "IMO_9353321"
+            },
+            {
+                "class_nr": 23,
+                "class_name": "IMO_8027767"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9008641/4.2778396.jpg",
+        "true": {
+            "class_nr": 37,
+            "class_name": "IMO_9008641"
+        },
+        "predicted": {
+            "class_nr": 37,
+            "class_name": "IMO_9008641"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 37,
+                "class_name": "IMO_9008641"
+            },
+            {
+                "class_nr": 38,
+                "class_name": "IMO_9706011"
+            },
+            {
+                "class_nr": 21,
+                "class_name": "IMO_8003072"
+            },
+            {
+                "class_nr": 14,
+                "class_name": "IMO_9473494"
+            },
+            {
+                "class_nr": 36,
+                "class_name": "IMO_8876481"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9008641/3.555704.jpg",
+        "true": {
+            "class_nr": 37,
+            "class_name": "IMO_9008641"
+        },
+        "predicted": {
+            "class_nr": 38,
+            "class_name": "IMO_9706011"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 38,
+                "class_name": "IMO_9706011"
+            },
+            {
+                "class_nr": 0,
+                "class_name": "IMO_7332787"
+            },
+            {
+                "class_nr": 21,
+                "class_name": "IMO_8003072"
+            },
+            {
+                "class_nr": 20,
+                "class_name": "IMO_8739009"
+            },
+            {
+                "class_nr": 41,
+                "class_name": "IMO_9353321"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9008641/2.650906.jpg",
+        "true": {
+            "class_nr": 37,
+            "class_name": "IMO_9008641"
+        },
+        "predicted": {
+            "class_nr": 11,
+            "class_name": "IMO_8406157"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 11,
+                "class_name": "IMO_8406157"
+            },
+            {
+                "class_nr": 38,
+                "class_name": "IMO_9706011"
+            },
+            {
+                "class_nr": 34,
+                "class_name": "IMO_9109043"
+            },
+            {
+                "class_nr": 10,
+                "class_name": "IMO_9819052"
+            },
+            {
+                "class_nr": 40,
+                "class_name": "IMO_7004586"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9706011/25.3525050.jpg",
+        "true": {
+            "class_nr": 38,
+            "class_name": "IMO_9706011"
+        },
+        "predicted": {
+            "class_nr": 38,
+            "class_name": "IMO_9706011"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 38,
+                "class_name": "IMO_9706011"
+            },
+            {
+                "class_nr": 47,
+                "class_name": "IMO_4544092"
+            },
+            {
+                "class_nr": 21,
+                "class_name": "IMO_8003072"
+            },
+            {
+                "class_nr": 34,
+                "class_name": "IMO_9109043"
+            },
+            {
+                "class_nr": 31,
+                "class_name": "IMO_5359652"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9706011/7.3525051.jpg",
+        "true": {
+            "class_nr": 38,
+            "class_name": "IMO_9706011"
+        },
+        "predicted": {
+            "class_nr": 38,
+            "class_name": "IMO_9706011"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 38,
+                "class_name": "IMO_9706011"
+            },
+            {
+                "class_nr": 47,
+                "class_name": "IMO_4544092"
+            },
+            {
+                "class_nr": 21,
+                "class_name": "IMO_8003072"
+            },
+            {
+                "class_nr": 36,
+                "class_name": "IMO_8876481"
+            },
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9706011/13.3452977.jpg",
+        "true": {
+            "class_nr": 38,
+            "class_name": "IMO_9706011"
+        },
+        "predicted": {
+            "class_nr": 38,
+            "class_name": "IMO_9706011"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 38,
+                "class_name": "IMO_9706011"
+            },
+            {
+                "class_nr": 40,
+                "class_name": "IMO_7004586"
+            },
+            {
+                "class_nr": 21,
+                "class_name": "IMO_8003072"
+            },
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            },
+            {
+                "class_nr": 47,
+                "class_name": "IMO_4544092"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9481207/1.prinsen_9481207_549571_XLarge.jpg",
+        "true": {
+            "class_nr": 39,
+            "class_name": "IMO_9481207"
+        },
+        "predicted": {
+            "class_nr": 6,
+            "class_name": "IMO_9481166"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 6,
+                "class_name": "IMO_9481166"
+            },
+            {
+                "class_nr": 39,
+                "class_name": "IMO_9481207"
+            },
+            {
+                "class_nr": 22,
+                "class_name": "IMO_9481192"
+            },
+            {
+                "class_nr": 24,
+                "class_name": "IMO_9383376"
+            },
+            {
+                "class_nr": 14,
+                "class_name": "IMO_9473494"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9481207/4.prinsen_9481207_3556513_Large.jpg",
+        "true": {
+            "class_nr": 39,
+            "class_name": "IMO_9481207"
+        },
+        "predicted": {
+            "class_nr": 6,
+            "class_name": "IMO_9481166"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 6,
+                "class_name": "IMO_9481166"
+            },
+            {
+                "class_nr": 39,
+                "class_name": "IMO_9481207"
+            },
+            {
+                "class_nr": 52,
+                "class_name": "IMO_9771432"
+            },
+            {
+                "class_nr": 22,
+                "class_name": "IMO_9481192"
+            },
+            {
+                "class_nr": 8,
+                "class_name": "IMO_9878993"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9481207/8.dsc_9215_20160821_1-scaled.jpg",
+        "true": {
+            "class_nr": 39,
+            "class_name": "IMO_9481207"
+        },
+        "predicted": {
+            "class_nr": 24,
+            "class_name": "IMO_9383376"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 24,
+                "class_name": "IMO_9383376"
+            },
+            {
+                "class_nr": 47,
+                "class_name": "IMO_4544092"
+            },
+            {
+                "class_nr": 14,
+                "class_name": "IMO_9473494"
+            },
+            {
+                "class_nr": 26,
+                "class_name": "IMO_5157626"
+            },
+            {
+                "class_nr": 6,
+                "class_name": "IMO_9481166"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_7004586/25.l126.jpg",
+        "true": {
+            "class_nr": 40,
+            "class_name": "IMO_7004586"
+        },
+        "predicted": {
+            "class_nr": 11,
+            "class_name": "IMO_8406157"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 11,
+                "class_name": "IMO_8406157"
+            },
+            {
+                "class_nr": 40,
+                "class_name": "IMO_7004586"
+            },
+            {
+                "class_nr": 23,
+                "class_name": "IMO_8027767"
+            },
+            {
+                "class_nr": 21,
+                "class_name": "IMO_8003072"
+            },
+            {
+                "class_nr": 38,
+                "class_name": "IMO_9706011"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_7004586/8.3426200.jpg",
+        "true": {
+            "class_nr": 40,
+            "class_name": "IMO_7004586"
+        },
+        "predicted": {
+            "class_nr": 40,
+            "class_name": "IMO_7004586"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 40,
+                "class_name": "IMO_7004586"
+            },
+            {
+                "class_nr": 0,
+                "class_name": "IMO_7332787"
+            },
+            {
+                "class_nr": 5,
+                "class_name": "IMO_8638449"
+            },
+            {
+                "class_nr": 18,
+                "class_name": "IMO_9247106"
+            },
+            {
+                "class_nr": 44,
+                "class_name": "IMO_9769219"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_7004586/2.646988.jpg",
+        "true": {
+            "class_nr": 40,
+            "class_name": "IMO_7004586"
+        },
+        "predicted": {
+            "class_nr": 40,
+            "class_name": "IMO_7004586"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 40,
+                "class_name": "IMO_7004586"
+            },
+            {
+                "class_nr": 11,
+                "class_name": "IMO_8406157"
+            },
+            {
+                "class_nr": 21,
+                "class_name": "IMO_8003072"
+            },
+            {
+                "class_nr": 13,
+                "class_name": "IMO_6708147"
+            },
+            {
+                "class_nr": 0,
+                "class_name": "IMO_7332787"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9353321/14.3236909.jpg",
+        "true": {
+            "class_nr": 41,
+            "class_name": "IMO_9353321"
+        },
+        "predicted": {
+            "class_nr": 41,
+            "class_name": "IMO_9353321"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 41,
+                "class_name": "IMO_9353321"
+            },
+            {
+                "class_nr": 50,
+                "class_name": "IMO_9144081"
+            },
+            {
+                "class_nr": 52,
+                "class_name": "IMO_9771432"
+            },
+            {
+                "class_nr": 48,
+                "class_name": "IMO_9361354"
+            },
+            {
+                "class_nr": 17,
+                "class_name": "IMO_9771420"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9353321/17.294307.jpg",
+        "true": {
+            "class_nr": 41,
+            "class_name": "IMO_9353321"
+        },
+        "predicted": {
+            "class_nr": 25,
+            "class_name": "IMO_8943882"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 25,
+                "class_name": "IMO_8943882"
+            },
+            {
+                "class_nr": 46,
+                "class_name": "IMO_9142631"
+            },
+            {
+                "class_nr": 41,
+                "class_name": "IMO_9353321"
+            },
+            {
+                "class_nr": 34,
+                "class_name": "IMO_9109043"
+            },
+            {
+                "class_nr": 18,
+                "class_name": "IMO_9247106"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9353321/24.993895.jpg",
+        "true": {
+            "class_nr": 41,
+            "class_name": "IMO_9353321"
+        },
+        "predicted": {
+            "class_nr": 41,
+            "class_name": "IMO_9353321"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 41,
+                "class_name": "IMO_9353321"
+            },
+            {
+                "class_nr": 25,
+                "class_name": "IMO_8943882"
+            },
+            {
+                "class_nr": 47,
+                "class_name": "IMO_4544092"
+            },
+            {
+                "class_nr": 15,
+                "class_name": "IMO_9144093"
+            },
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_6903486/4.1114985.jpg",
+        "true": {
+            "class_nr": 42,
+            "class_name": "IMO_6903486"
+        },
+        "predicted": {
+            "class_nr": 47,
+            "class_name": "IMO_4544092"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 47,
+                "class_name": "IMO_4544092"
+            },
+            {
+                "class_nr": 0,
+                "class_name": "IMO_7332787"
+            },
+            {
+                "class_nr": 42,
+                "class_name": "IMO_6903486"
+            },
+            {
+                "class_nr": 21,
+                "class_name": "IMO_8003072"
+            },
+            {
+                "class_nr": 20,
+                "class_name": "IMO_8739009"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_6903486/17.1944257.jpg",
+        "true": {
+            "class_nr": 42,
+            "class_name": "IMO_6903486"
+        },
+        "predicted": {
+            "class_nr": 42,
+            "class_name": "IMO_6903486"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 42,
+                "class_name": "IMO_6903486"
+            },
+            {
+                "class_nr": 4,
+                "class_name": "IMO_8611958"
+            },
+            {
+                "class_nr": 15,
+                "class_name": "IMO_9144093"
+            },
+            {
+                "class_nr": 32,
+                "class_name": "IMO_9075369"
+            },
+            {
+                "class_nr": 31,
+                "class_name": "IMO_5359652"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_6903486/19.Tevla.jpg",
+        "true": {
+            "class_nr": 42,
+            "class_name": "IMO_6903486"
+        },
+        "predicted": {
+            "class_nr": 24,
+            "class_name": "IMO_9383376"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 24,
+                "class_name": "IMO_9383376"
+            },
+            {
+                "class_nr": 9,
+                "class_name": "IMO_4544119"
+            },
+            {
+                "class_nr": 25,
+                "class_name": "IMO_8943882"
+            },
+            {
+                "class_nr": 41,
+                "class_name": "IMO_9353321"
+            },
+            {
+                "class_nr": 14,
+                "class_name": "IMO_9473494"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9863209/14.3549209.jpg",
+        "true": {
+            "class_nr": 43,
+            "class_name": "IMO_9863209"
+        },
+        "predicted": {
+            "class_nr": 43,
+            "class_name": "IMO_9863209"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 43,
+                "class_name": "IMO_9863209"
+            },
+            {
+                "class_nr": 14,
+                "class_name": "IMO_9473494"
+            },
+            {
+                "class_nr": 24,
+                "class_name": "IMO_9383376"
+            },
+            {
+                "class_nr": 4,
+                "class_name": "IMO_8611958"
+            },
+            {
+                "class_nr": 7,
+                "class_name": "IMO_9870422"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9863209/17.3548490.jpg",
+        "true": {
+            "class_nr": 43,
+            "class_name": "IMO_9863209"
+        },
+        "predicted": {
+            "class_nr": 43,
+            "class_name": "IMO_9863209"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 43,
+                "class_name": "IMO_9863209"
+            },
+            {
+                "class_nr": 28,
+                "class_name": "IMO_6519522"
+            },
+            {
+                "class_nr": 16,
+                "class_name": "IMO_8897930"
+            },
+            {
+                "class_nr": 2,
+                "class_name": "IMO_9921788"
+            },
+            {
+                "class_nr": 33,
+                "class_name": "IMO_9907990"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9863209/15.3540458.jpg",
+        "true": {
+            "class_nr": 43,
+            "class_name": "IMO_9863209"
+        },
+        "predicted": {
+            "class_nr": 29,
+            "class_name": "IMO_9473482"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 29,
+                "class_name": "IMO_9473482"
+            },
+            {
+                "class_nr": 43,
+                "class_name": "IMO_9863209"
+            },
+            {
+                "class_nr": 48,
+                "class_name": "IMO_9361354"
+            },
+            {
+                "class_nr": 14,
+                "class_name": "IMO_9473494"
+            },
+            {
+                "class_nr": 35,
+                "class_name": "IMO_7325681"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9769219/23.basto-vi_9769219_1623247_Small.jpg",
+        "true": {
+            "class_nr": 44,
+            "class_name": "IMO_9769219"
+        },
+        "predicted": {
+            "class_nr": 17,
+            "class_name": "IMO_9771420"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 17,
+                "class_name": "IMO_9771420"
+            },
+            {
+                "class_nr": 52,
+                "class_name": "IMO_9771432"
+            },
+            {
+                "class_nr": 44,
+                "class_name": "IMO_9769219"
+            },
+            {
+                "class_nr": 8,
+                "class_name": "IMO_9878993"
+            },
+            {
+                "class_nr": 29,
+                "class_name": "IMO_9473482"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9769219/5.3319725.jpg",
+        "true": {
+            "class_nr": 44,
+            "class_name": "IMO_9769219"
+        },
+        "predicted": {
+            "class_nr": 44,
+            "class_name": "IMO_9769219"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 44,
+                "class_name": "IMO_9769219"
+            },
+            {
+                "class_nr": 8,
+                "class_name": "IMO_9878993"
+            },
+            {
+                "class_nr": 52,
+                "class_name": "IMO_9771432"
+            },
+            {
+                "class_nr": 43,
+                "class_name": "IMO_9863209"
+            },
+            {
+                "class_nr": 14,
+                "class_name": "IMO_9473494"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9769219/22.3170493.jpg",
+        "true": {
+            "class_nr": 44,
+            "class_name": "IMO_9769219"
+        },
+        "predicted": {
+            "class_nr": 52,
+            "class_name": "IMO_9771432"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 52,
+                "class_name": "IMO_9771432"
+            },
+            {
+                "class_nr": 44,
+                "class_name": "IMO_9769219"
+            },
+            {
+                "class_nr": 17,
+                "class_name": "IMO_9771420"
+            },
+            {
+                "class_nr": 8,
+                "class_name": "IMO_9878993"
+            },
+            {
+                "class_nr": 33,
+                "class_name": "IMO_9907990"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_8986303/4.3519276.jpg",
+        "true": {
+            "class_nr": 45,
+            "class_name": "IMO_8986303"
+        },
+        "predicted": {
+            "class_nr": 45,
+            "class_name": "IMO_8986303"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 45,
+                "class_name": "IMO_8986303"
+            },
+            {
+                "class_nr": 23,
+                "class_name": "IMO_8027767"
+            },
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            },
+            {
+                "class_nr": 40,
+                "class_name": "IMO_7004586"
+            },
+            {
+                "class_nr": 48,
+                "class_name": "IMO_9361354"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_8986303/2.3246551.jpg",
+        "true": {
+            "class_nr": 45,
+            "class_name": "IMO_8986303"
+        },
+        "predicted": {
+            "class_nr": 45,
+            "class_name": "IMO_8986303"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 45,
+                "class_name": "IMO_8986303"
+            },
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            },
+            {
+                "class_nr": 38,
+                "class_name": "IMO_9706011"
+            },
+            {
+                "class_nr": 0,
+                "class_name": "IMO_7332787"
+            },
+            {
+                "class_nr": 32,
+                "class_name": "IMO_9075369"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_8986303/1.3269356.jpg",
+        "true": {
+            "class_nr": 45,
+            "class_name": "IMO_8986303"
+        },
+        "predicted": {
+            "class_nr": 45,
+            "class_name": "IMO_8986303"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 45,
+                "class_name": "IMO_8986303"
+            },
+            {
+                "class_nr": 40,
+                "class_name": "IMO_7004586"
+            },
+            {
+                "class_nr": 38,
+                "class_name": "IMO_9706011"
+            },
+            {
+                "class_nr": 23,
+                "class_name": "IMO_8027767"
+            },
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9142631/5.8277035953_629df91a31_b.jpg",
+        "true": {
+            "class_nr": 46,
+            "class_name": "IMO_9142631"
+        },
+        "predicted": {
+            "class_nr": 46,
+            "class_name": "IMO_9142631"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 46,
+                "class_name": "IMO_9142631"
+            },
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            },
+            {
+                "class_nr": 23,
+                "class_name": "IMO_8027767"
+            },
+            {
+                "class_nr": 18,
+                "class_name": "IMO_9247106"
+            },
+            {
+                "class_nr": 19,
+                "class_name": "IMO_9677399"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9142631/25.ice-star_9142631_54081_XLarge.jpg",
+        "true": {
+            "class_nr": 46,
+            "class_name": "IMO_9142631"
+        },
+        "predicted": {
+            "class_nr": 46,
+            "class_name": "IMO_9142631"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 46,
+                "class_name": "IMO_9142631"
+            },
+            {
+                "class_nr": 14,
+                "class_name": "IMO_9473494"
+            },
+            {
+                "class_nr": 24,
+                "class_name": "IMO_9383376"
+            },
+            {
+                "class_nr": 51,
+                "class_name": "IMO_9359375"
+            },
+            {
+                "class_nr": 19,
+                "class_name": "IMO_9677399"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9142631/12.ice-star_9142631_2034429_Large.jpg",
+        "true": {
+            "class_nr": 46,
+            "class_name": "IMO_9142631"
+        },
+        "predicted": {
+            "class_nr": 46,
+            "class_name": "IMO_9142631"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 46,
+                "class_name": "IMO_9142631"
+            },
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            },
+            {
+                "class_nr": 48,
+                "class_name": "IMO_9361354"
+            },
+            {
+                "class_nr": 47,
+                "class_name": "IMO_4544092"
+            },
+            {
+                "class_nr": 4,
+                "class_name": "IMO_8611958"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_4544092/5.54898.jpg",
+        "true": {
+            "class_nr": 47,
+            "class_name": "IMO_4544092"
+        },
+        "predicted": {
+            "class_nr": 47,
+            "class_name": "IMO_4544092"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 47,
+                "class_name": "IMO_4544092"
+            },
+            {
+                "class_nr": 9,
+                "class_name": "IMO_4544119"
+            },
+            {
+                "class_nr": 24,
+                "class_name": "IMO_9383376"
+            },
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            },
+            {
+                "class_nr": 22,
+                "class_name": "IMO_9481192"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_4544092/10.2527989.jpg",
+        "true": {
+            "class_nr": 47,
+            "class_name": "IMO_4544092"
+        },
+        "predicted": {
+            "class_nr": 47,
+            "class_name": "IMO_4544092"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 47,
+                "class_name": "IMO_4544092"
+            },
+            {
+                "class_nr": 2,
+                "class_name": "IMO_9921788"
+            },
+            {
+                "class_nr": 4,
+                "class_name": "IMO_8611958"
+            },
+            {
+                "class_nr": 34,
+                "class_name": "IMO_9109043"
+            },
+            {
+                "class_nr": 33,
+                "class_name": "IMO_9907990"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_4544092/3.719740.jpg",
+        "true": {
+            "class_nr": 47,
+            "class_name": "IMO_4544092"
+        },
+        "predicted": {
+            "class_nr": 31,
+            "class_name": "IMO_5359652"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 31,
+                "class_name": "IMO_5359652"
+            },
+            {
+                "class_nr": 47,
+                "class_name": "IMO_4544092"
+            },
+            {
+                "class_nr": 3,
+                "class_name": "IMO_6820919"
+            },
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            },
+            {
+                "class_nr": 0,
+                "class_name": "IMO_7332787"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9361354/2.bornholm_9361354_1638651_XLarge.jpg",
+        "true": {
+            "class_nr": 48,
+            "class_name": "IMO_9361354"
+        },
+        "predicted": {
+            "class_nr": 42,
+            "class_name": "IMO_6903486"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 42,
+                "class_name": "IMO_6903486"
+            },
+            {
+                "class_nr": 31,
+                "class_name": "IMO_5359652"
+            },
+            {
+                "class_nr": 27,
+                "class_name": "IMO_7728479"
+            },
+            {
+                "class_nr": 13,
+                "class_name": "IMO_6708147"
+            },
+            {
+                "class_nr": 34,
+                "class_name": "IMO_9109043"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9361354/4.bornholm_9361354_2140053_XLarge.jpg",
+        "true": {
+            "class_nr": 48,
+            "class_name": "IMO_9361354"
+        },
+        "predicted": {
+            "class_nr": 48,
+            "class_name": "IMO_9361354"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 48,
+                "class_name": "IMO_9361354"
+            },
+            {
+                "class_nr": 4,
+                "class_name": "IMO_8611958"
+            },
+            {
+                "class_nr": 18,
+                "class_name": "IMO_9247106"
+            },
+            {
+                "class_nr": 10,
+                "class_name": "IMO_9819052"
+            },
+            {
+                "class_nr": 46,
+                "class_name": "IMO_9142631"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9361354/10.bornholm-imo-9361354.jpg",
+        "true": {
+            "class_nr": 48,
+            "class_name": "IMO_9361354"
+        },
+        "predicted": {
+            "class_nr": 48,
+            "class_name": "IMO_9361354"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 48,
+                "class_name": "IMO_9361354"
+            },
+            {
+                "class_nr": 18,
+                "class_name": "IMO_9247106"
+            },
+            {
+                "class_nr": 43,
+                "class_name": "IMO_9863209"
+            },
+            {
+                "class_nr": 46,
+                "class_name": "IMO_9142631"
+            },
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_7048491/5.3176952.jpg",
+        "true": {
+            "class_nr": 49,
+            "class_name": "IMO_7048491"
+        },
+        "predicted": {
+            "class_nr": 41,
+            "class_name": "IMO_9353321"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 41,
+                "class_name": "IMO_9353321"
+            },
+            {
+                "class_nr": 2,
+                "class_name": "IMO_9921788"
+            },
+            {
+                "class_nr": 24,
+                "class_name": "IMO_9383376"
+            },
+            {
+                "class_nr": 47,
+                "class_name": "IMO_4544092"
+            },
+            {
+                "class_nr": 46,
+                "class_name": "IMO_9142631"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_7048491/3.3070199.jpg",
+        "true": {
+            "class_nr": 49,
+            "class_name": "IMO_7048491"
+        },
+        "predicted": {
+            "class_nr": 16,
+            "class_name": "IMO_8897930"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 16,
+                "class_name": "IMO_8897930"
+            },
+            {
+                "class_nr": 32,
+                "class_name": "IMO_9075369"
+            },
+            {
+                "class_nr": 31,
+                "class_name": "IMO_5359652"
+            },
+            {
+                "class_nr": 26,
+                "class_name": "IMO_5157626"
+            },
+            {
+                "class_nr": 22,
+                "class_name": "IMO_9481192"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_7048491/1.3332076.jpg",
+        "true": {
+            "class_nr": 49,
+            "class_name": "IMO_7048491"
+        },
+        "predicted": {
+            "class_nr": 42,
+            "class_name": "IMO_6903486"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 42,
+                "class_name": "IMO_6903486"
+            },
+            {
+                "class_nr": 16,
+                "class_name": "IMO_8897930"
+            },
+            {
+                "class_nr": 49,
+                "class_name": "IMO_7048491"
+            },
+            {
+                "class_nr": 32,
+                "class_name": "IMO_9075369"
+            },
+            {
+                "class_nr": 47,
+                "class_name": "IMO_4544092"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9144081/25.20090728D200DSC8035_rez-1000_web.jpg",
+        "true": {
+            "class_nr": 50,
+            "class_name": "IMO_9144081"
+        },
+        "predicted": {
+            "class_nr": 41,
+            "class_name": "IMO_9353321"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 41,
+                "class_name": "IMO_9353321"
+            },
+            {
+                "class_nr": 50,
+                "class_name": "IMO_9144081"
+            },
+            {
+                "class_nr": 39,
+                "class_name": "IMO_9481207"
+            },
+            {
+                "class_nr": 25,
+                "class_name": "IMO_8943882"
+            },
+            {
+                "class_nr": 28,
+                "class_name": "IMO_6519522"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9144081/22.3319719.jpg",
+        "true": {
+            "class_nr": 50,
+            "class_name": "IMO_9144081"
+        },
+        "predicted": {
+            "class_nr": 15,
+            "class_name": "IMO_9144093"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 15,
+                "class_name": "IMO_9144093"
+            },
+            {
+                "class_nr": 50,
+                "class_name": "IMO_9144081"
+            },
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            },
+            {
+                "class_nr": 8,
+                "class_name": "IMO_9878993"
+            },
+            {
+                "class_nr": 16,
+                "class_name": "IMO_8897930"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9144081/8.2784437.jpg",
+        "true": {
+            "class_nr": 50,
+            "class_name": "IMO_9144081"
+        },
+        "predicted": {
+            "class_nr": 15,
+            "class_name": "IMO_9144093"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 15,
+                "class_name": "IMO_9144093"
+            },
+            {
+                "class_nr": 50,
+                "class_name": "IMO_9144081"
+            },
+            {
+                "class_nr": 18,
+                "class_name": "IMO_9247106"
+            },
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            },
+            {
+                "class_nr": 23,
+                "class_name": "IMO_8027767"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9359375/6.2244473.jpg",
+        "true": {
+            "class_nr": 51,
+            "class_name": "IMO_9359375"
+        },
+        "predicted": {
+            "class_nr": 51,
+            "class_name": "IMO_9359375"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 51,
+                "class_name": "IMO_9359375"
+            },
+            {
+                "class_nr": 23,
+                "class_name": "IMO_8027767"
+            },
+            {
+                "class_nr": 0,
+                "class_name": "IMO_7332787"
+            },
+            {
+                "class_nr": 6,
+                "class_name": "IMO_9481166"
+            },
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9359375/23.stolt-sisto-imo-9359375-calandkanaal-port-of-rotterdam-pic5-EW00DT.jpg",
+        "true": {
+            "class_nr": 51,
+            "class_name": "IMO_9359375"
+        },
+        "predicted": {
+            "class_nr": 51,
+            "class_name": "IMO_9359375"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 51,
+                "class_name": "IMO_9359375"
+            },
+            {
+                "class_nr": 45,
+                "class_name": "IMO_8986303"
+            },
+            {
+                "class_nr": 12,
+                "class_name": "IMO_8912493"
+            },
+            {
+                "class_nr": 15,
+                "class_name": "IMO_9144093"
+            },
+            {
+                "class_nr": 48,
+                "class_name": "IMO_9361354"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9359375/12.3192153.jpg",
+        "true": {
+            "class_nr": 51,
+            "class_name": "IMO_9359375"
+        },
+        "predicted": {
+            "class_nr": 0,
+            "class_name": "IMO_7332787"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 0,
+                "class_name": "IMO_7332787"
+            },
+            {
+                "class_nr": 15,
+                "class_name": "IMO_9144093"
+            },
+            {
+                "class_nr": 51,
+                "class_name": "IMO_9359375"
+            },
+            {
+                "class_nr": 34,
+                "class_name": "IMO_9109043"
+            },
+            {
+                "class_nr": 10,
+                "class_name": "IMO_9819052"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9771432/16.basto-v_9771432_2124845_XLarge.jpg",
+        "true": {
+            "class_nr": 52,
+            "class_name": "IMO_9771432"
+        },
+        "predicted": {
+            "class_nr": 52,
+            "class_name": "IMO_9771432"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 52,
+                "class_name": "IMO_9771432"
+            },
+            {
+                "class_nr": 17,
+                "class_name": "IMO_9771420"
+            },
+            {
+                "class_nr": 8,
+                "class_name": "IMO_9878993"
+            },
+            {
+                "class_nr": 44,
+                "class_name": "IMO_9769219"
+            },
+            {
+                "class_nr": 35,
+                "class_name": "IMO_7325681"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9771432/9.3115852.jpg",
+        "true": {
+            "class_nr": 52,
+            "class_name": "IMO_9771432"
+        },
+        "predicted": {
+            "class_nr": 8,
+            "class_name": "IMO_9878993"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 8,
+                "class_name": "IMO_9878993"
+            },
+            {
+                "class_nr": 31,
+                "class_name": "IMO_5359652"
+            },
+            {
+                "class_nr": 1,
+                "class_name": "IMO_7814333"
+            },
+            {
+                "class_nr": 44,
+                "class_name": "IMO_9769219"
+            },
+            {
+                "class_nr": 43,
+                "class_name": "IMO_9863209"
+            }
+        ]
+    },
+    {
+        "image_path": "/mnt/CRAI-NAS/all/lidfer/identify-ship/data/images/IMO_9771432/2.3304408.jpg",
+        "true": {
+            "class_nr": 52,
+            "class_name": "IMO_9771432"
+        },
+        "predicted": {
+            "class_nr": 15,
+            "class_name": "IMO_9144093"
+        },
+        "top_5_predictions": [
+            {
+                "class_nr": 15,
+                "class_name": "IMO_9144093"
+            },
+            {
+                "class_nr": 14,
+                "class_name": "IMO_9473494"
+            },
+            {
+                "class_nr": 16,
+                "class_name": "IMO_8897930"
+            },
+            {
+                "class_nr": 33,
+                "class_name": "IMO_9907990"
+            },
+            {
+                "class_nr": 25,
+                "class_name": "IMO_8943882"
+            }
+        ]
+    }
+]
