@@ -1,5 +1,4 @@
 data/less_than_7/
-data/images/
 image_scraper/.git/
 __pycache__/
 classifier/wandb/
