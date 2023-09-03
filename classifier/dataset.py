@@ -7,7 +7,9 @@ from torchvision import transforms
 from torch.utils.data import Dataset
 from torch.utils.data import Dataset, random_split, Subset
 from PIL import Image
-
+import sys
+sys.path.append('../')
+from settings import PROJECT_ROOT
 
 class ShipDataset(Dataset):
     def __init__(self, root_dir: str, mode :str, transforms: Optional[Callable] = None):
@@ -79,3 +81,8 @@ class ShipDataset(Dataset):
             'image_path': img_path
         }
         return dic
+
+if __name__ == '__main__':
+    data_path = os.path.join(PROJECT_ROOT, 'data', 'images')
+    dataset = ShipDataset(data_path, mode='test')
+    print(len(dataset))
