@@ -6,7 +6,7 @@ import sys
 sys.path.append('../')
 from settings import PROJECT_ROOT
 
-model_path = os.path.join(PROJECT_ROOT, 'trained_models', 'woven-energy-5', 'model_epoch_100.pth')
+model_path = os.path.join(PROJECT_ROOT, 'trained_models', 'woven-energy-5', 'final_model.pth') 
 dataset_path = os.path.join(PROJECT_ROOT, 'data', 'images')
 device = torch.device("cuda:0")
 
